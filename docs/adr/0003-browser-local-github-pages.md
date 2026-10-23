@@ -29,6 +29,7 @@ IndexedDB removes SQL/WASM integration and permits native browser persistence. K
 - Phone/iPad usage does not depend on the Mac, and no personal computer accepts incoming connections.
 - Browser storage can be cleared or evicted; persistence requests are not a substitute for exported backups. Different browsers, origins and Home Screen contexts may have separate storage.
 - No initial offline application-shell guarantee: internet is required to load the static app. While loaded, cached-card analysis works offline; uncached cards remain unknown.
+- GitHub Pages project paths share the account origin; other code published on that origin shares its browser-storage trust boundary. A separate project path is not a sandbox.
 - Card queries go to Scryfall; owner names, notes and full deck records are not uploaded. Browser-controlled User-Agent cannot be set by application code.
 - Original Python remains a reference, not a second production system. Changing shared rules must update parity fixtures and pass tests.
 - Actual iPhone/iPad Safari verification must be reported honestly; desktop emulation is not a replacement.
