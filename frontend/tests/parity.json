@@ -1,0 +1,6271 @@
+{
+  "cards": [
+    {
+      "name": "Test Commander",
+      "oracle_text": "Flying",
+      "type_line": "Legendary Creature \u2014 Elf",
+      "cmc": 4,
+      "color_identity": [
+        "W",
+        "U",
+        "B",
+        "R",
+        "G"
+      ],
+      "colors": [
+        "W",
+        "U",
+        "B",
+        "R",
+        "G"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Sol Ring",
+      "oracle_text": "{T}: Add {C}{C}.",
+      "type_line": "Artifact",
+      "cmc": 1,
+      "color_identity": [],
+      "colors": [],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Arcane Signet",
+      "oracle_text": "{T}: Add one mana of any color in your commander\u2019s color identity.",
+      "type_line": "Artifact",
+      "cmc": 2,
+      "color_identity": [],
+      "colors": [],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Blood Artist",
+      "oracle_text": "Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.",
+      "type_line": "Creature \u2014 Vampire",
+      "cmc": 2,
+      "color_identity": [],
+      "colors": [],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Viscera Seer",
+      "oracle_text": "Sacrifice a creature: Scry 1.",
+      "type_line": "Creature \u2014 Vampire",
+      "cmc": 1,
+      "color_identity": [],
+      "colors": [],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Reanimate",
+      "oracle_text": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its mana value.",
+      "type_line": "Sorcery",
+      "cmc": 1,
+      "color_identity": [
+        "B"
+      ],
+      "colors": [
+        "B"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Eternal Witness",
+      "oracle_text": "When Eternal Witness enters, return target card from your graveyard to your hand.",
+      "type_line": "Creature \u2014 Human Shaman",
+      "cmc": 3,
+      "color_identity": [
+        "G"
+      ],
+      "colors": [
+        "G"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Stitcher's Supplier",
+      "oracle_text": "When Stitcher's Supplier enters or dies, mill three cards.",
+      "type_line": "Creature \u2014 Zombie",
+      "cmc": 1,
+      "color_identity": [
+        "B"
+      ],
+      "colors": [
+        "B"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Animate Dead",
+      "oracle_text": "Enchant creature card in a graveyard.",
+      "type_line": "Enchantment \u2014 Aura",
+      "cmc": 2,
+      "color_identity": [
+        "B"
+      ],
+      "colors": [
+        "B"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Living Death",
+      "oracle_text": "Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield.",
+      "type_line": "Sorcery",
+      "cmc": 5,
+      "color_identity": [
+        "B"
+      ],
+      "colors": [
+        "B"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Soul-Guide Lantern",
+      "oracle_text": "When Soul-Guide Lantern enters, exile target card from a graveyard. {T}, Sacrifice Soul-Guide Lantern: Exile each opponent\u2019s graveyard. {1}, {T}, Sacrifice Soul-Guide Lantern: Draw a card.",
+      "type_line": "Artifact",
+      "cmc": 1,
+      "color_identity": [],
+      "colors": [],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Bojuka Bog",
+      "oracle_text": "Bojuka Bog enters tapped. When Bojuka Bog enters, exile target player\u2019s graveyard. {T}: Add {B}.",
+      "type_line": "Land",
+      "cmc": 0,
+      "color_identity": [
+        "B"
+      ],
+      "colors": [
+        "B"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Scavenger Grounds",
+      "oracle_text": "{T}: Add {C}. {2}, {T}, Sacrifice a Desert: Exile all cards from all graveyards.",
+      "type_line": "Land",
+      "cmc": 0,
+      "color_identity": [],
+      "colors": [],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Scavenging Ooze",
+      "oracle_text": "{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life.",
+      "type_line": "Creature \u2014 Ooze",
+      "cmc": 2,
+      "color_identity": [
+        "G"
+      ],
+      "colors": [
+        "G"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Swords to Plowshares",
+      "oracle_text": "Exile target creature. Its controller gains life equal to its power.",
+      "type_line": "Instant",
+      "cmc": 1,
+      "color_identity": [
+        "W"
+      ],
+      "colors": [
+        "W"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Beast Within",
+      "oracle_text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token.",
+      "type_line": "Instant",
+      "cmc": 3,
+      "color_identity": [
+        "G"
+      ],
+      "colors": [
+        "G"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Generous Gift",
+      "oracle_text": "Destroy target permanent. Its controller creates a 3/3 white Elephant creature token.",
+      "type_line": "Instant",
+      "cmc": 3,
+      "color_identity": [
+        "W"
+      ],
+      "colors": [
+        "W"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Counterspell",
+      "oracle_text": "Counter target spell.",
+      "type_line": "Instant",
+      "cmc": 2,
+      "color_identity": [
+        "U"
+      ],
+      "colors": [
+        "U"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Forest",
+      "oracle_text": "{T}: Add {G}.",
+      "type_line": "Basic Land \u2014 Forest",
+      "cmc": 0,
+      "color_identity": [
+        "G"
+      ],
+      "colors": [
+        "G"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Mystic Engine",
+      "oracle_text": "Whenever you cast an enchantment spell, draw a card.",
+      "type_line": "Enchantment",
+      "cmc": 3,
+      "color_identity": [
+        "G"
+      ],
+      "colors": [
+        "G"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Vanilla Giant",
+      "oracle_text": "",
+      "type_line": "Creature \u2014 Giant",
+      "cmc": 6,
+      "color_identity": [
+        "G"
+      ],
+      "colors": [
+        "G"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Heliod, Sun-Crowned",
+      "oracle_text": "Lifelink",
+      "type_line": "Legendary Enchantment Creature \u2014 God",
+      "cmc": 3,
+      "color_identity": [
+        "W"
+      ],
+      "colors": [
+        "W"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Walking Ballista",
+      "oracle_text": "Walking Ballista enters with X +1/+1 counters.",
+      "type_line": "Artifact Creature",
+      "cmc": 0,
+      "color_identity": [],
+      "colors": [],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Negate",
+      "oracle_text": "Counter target noncreature spell.",
+      "type_line": "Instant",
+      "cmc": 2,
+      "color_identity": [
+        "U"
+      ],
+      "colors": [
+        "U"
+      ],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [],
+      "reserved": false
+    },
+    {
+      "name": "Front // Back",
+      "oracle_text": "",
+      "type_line": "Artifact",
+      "cmc": 2,
+      "color_identity": [],
+      "colors": [],
+      "mana_cost": "{2}",
+      "keywords": [],
+      "legalities": {
+        "commander": "legal"
+      },
+      "prices": {},
+      "card_faces": [
+        {
+          "name": "Front",
+          "oracle_text": "Draw two cards."
+        },
+        {
+          "name": "Back",
+          "oracle_text": "Flying"
+        }
+      ],
+      "reserved": false
+    }
+  ],
+  "missing": [
+    "Imaginary Card",
+    "Rest in Peace",
+    "Dauthi Voidwalker",
+    "Feed the Swarm",
+    "Chaos Warp",
+    "Pongify",
+    "Heroic Intervention",
+    "Boros Charm",
+    "Blasphemous Act",
+    "Austere Command",
+    "Nevinyrral's Disk"
+  ],
+  "cases": [
+    {
+      "name": "Graveyard covered",
+      "opponent": {
+        "name": "Graveyard covered",
+        "text": "Reanimate\nAnimate Dead\nEternal Witness\nStitcher's Supplier\nBlood Artist\nViscera Seer",
+        "commander": "Test Commander"
+      },
+      "mine": {
+        "name": "My Graveyard covered",
+        "text": "Soul-Guide Lantern\nBojuka Bog\nScavenger Grounds\nScavenging Ooze",
+        "commander": "Test Commander"
+      },
+      "environment": "B2",
+      "profile": "Simon",
+      "expected": {
+        "opponent": {
+          "commander": [
+            "Test Commander"
+          ],
+          "identity": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+          ],
+          "identity_known": true,
+          "supplied": 7,
+          "resolved": 7,
+          "missing": 93,
+          "confidence": {
+            "level": "Low",
+            "index": 7,
+            "completeness": 0.07,
+            "note": "Ranges are conservative heuristic bounds, not statistical confidence intervals. Missing cards are unknown."
+          },
+          "scores": {
+            "Acceleration": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Nonland mana acceleration and cost reduction."
+            },
+            "Card Advantage": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed draw and temporary card access."
+            },
+            "Tutors / Consistency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Searching for nonland cards; not an overall consistency estimate."
+            },
+            "Graveyard Power": {
+              "score": 1.9,
+              "range": [
+                1.9,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Reanimate",
+                  "quantity": 1,
+                  "tags": [
+                    "reanimation"
+                  ],
+                  "weight": 1.4,
+                  "rules": {
+                    "reanimation": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Animate Dead",
+                  "quantity": 1,
+                  "tags": [
+                    "reanimation"
+                  ],
+                  "weight": 1.4,
+                  "rules": {
+                    "reanimation": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Stitcher's Supplier",
+                  "quantity": 1,
+                  "tags": [
+                    "self mill"
+                  ],
+                  "weight": 0.6,
+                  "rules": {
+                    "self mill": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 9,
+              "description": "Filling, exploiting and reusing graveyards."
+            },
+            "Recursion": {
+              "score": 2.6,
+              "range": [
+                2.6,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Reanimate",
+                  "quantity": 1,
+                  "tags": [
+                    "recursion",
+                    "reanimation"
+                  ],
+                  "weight": 1.3,
+                  "rules": {
+                    "recursion": [
+                      "manual:tag_overrides.json"
+                    ],
+                    "reanimation": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Animate Dead",
+                  "quantity": 1,
+                  "tags": [
+                    "recursion",
+                    "reanimation"
+                  ],
+                  "weight": 1.3,
+                  "rules": {
+                    "recursion": [
+                      "manual:tag_overrides.json"
+                    ],
+                    "reanimation": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Eternal Witness",
+                  "quantity": 1,
+                  "tags": [
+                    "recursion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "recursion": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 7,
+              "description": "Returning or replaying expended resources."
+            },
+            "Resilience / Protection": {
+              "score": 1.1,
+              "range": [
+                1.1,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Reanimate",
+                  "quantity": 1,
+                  "tags": [
+                    "recursion"
+                  ],
+                  "weight": 0.5,
+                  "rules": {
+                    "recursion": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Animate Dead",
+                  "quantity": 1,
+                  "tags": [
+                    "recursion"
+                  ],
+                  "weight": 0.5,
+                  "rules": {
+                    "recursion": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Eternal Witness",
+                  "quantity": 1,
+                  "tags": [
+                    "recursion"
+                  ],
+                  "weight": 0.5,
+                  "rules": {
+                    "recursion": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 7,
+              "description": "Protection and recovery; not immunity to wipes."
+            },
+            "Spot Interaction": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Targeted interaction; applicability is assessed separately."
+            },
+            "Board Wipes": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Mass interaction, including conditional or asymmetric effects."
+            },
+            "Commander Dependency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 6,
+              "description": "Observed commander support; dependency cannot be proven from card text alone."
+            },
+            "Evasion": {
+              "score": 0.4,
+              "range": [
+                0.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "evasion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "evasion": [
+                      "oracle:Test Commander:evasion"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Ability to bypass or overwhelm blockers."
+            },
+            "Combat Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Growth of combat damage rather than current board power."
+            },
+            "Burst Potential": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Observed potential for sudden high-impact turns."
+            },
+            "Combo / Engine Density": {
+              "score": 1.5,
+              "range": [
+                1.5,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Stitcher's Supplier",
+                  "quantity": 1,
+                  "tags": [
+                    "death payoff"
+                  ],
+                  "weight": 0.7,
+                  "rules": {
+                    "death payoff": [
+                      "oracle:Stitcher's Supplier:death payoff"
+                    ]
+                  }
+                },
+                {
+                  "card": "Blood Artist",
+                  "quantity": 1,
+                  "tags": [
+                    "death payoff"
+                  ],
+                  "weight": 0.7,
+                  "rules": {
+                    "death payoff": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Viscera Seer",
+                  "quantity": 1,
+                  "tags": [
+                    "sacrifice outlet"
+                  ],
+                  "weight": 0.7,
+                  "rules": {
+                    "sacrifice outlet": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 7,
+              "description": "Engine ingredients; not a count of proven combos."
+            },
+            "Single-Card Bombs": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Curated haymakers, independently of synergy."
+            },
+            "Artifact Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 18,
+              "description": "Artifact presence and explicit payoffs; density is only a proxy for reliance."
+            },
+            "Enchantment Reliance": {
+              "score": 0.2,
+              "range": [
+                0.2,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Animate Dead",
+                  "quantity": 1,
+                  "tags": [
+                    "enchantment body"
+                  ],
+                  "weight": 0.6,
+                  "rules": {
+                    "enchantment body": [
+                      "type:Enchantment"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Enchantment presence and payoffs."
+            },
+            "Creature Reliance": {
+              "score": 0.8,
+              "range": [
+                0.8,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Eternal Witness",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                },
+                {
+                  "card": "Stitcher's Supplier",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                },
+                {
+                  "card": "Blood Artist",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                },
+                {
+                  "card": "Viscera Seer",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                },
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 32,
+              "description": "Observed creature density."
+            },
+            "Graveyard Reliance": {
+              "score": 1.6,
+              "range": [
+                1.6,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Reanimate",
+                  "quantity": 1,
+                  "tags": [
+                    "reanimation",
+                    "recursion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "reanimation": [
+                      "manual:tag_overrides.json"
+                    ],
+                    "recursion": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Animate Dead",
+                  "quantity": 1,
+                  "tags": [
+                    "reanimation",
+                    "recursion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "reanimation": [
+                      "manual:tag_overrides.json"
+                    ],
+                    "recursion": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Eternal Witness",
+                  "quantity": 1,
+                  "tags": [
+                    "recursion"
+                  ],
+                  "weight": 0.9,
+                  "rules": {
+                    "recursion": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 9,
+              "description": "Effects that need graveyard resources."
+            },
+            "Life Gain / Life Resource Abuse": {
+              "score": 1.2,
+              "range": [
+                1.2,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Reanimate",
+                  "quantity": 1,
+                  "tags": [
+                    "life resource"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "life resource": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Blood Artist",
+                  "quantity": 1,
+                  "tags": [
+                    "life gain",
+                    "life drain"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "life gain": [
+                      "manual:tag_overrides.json"
+                    ],
+                    "life drain": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 8,
+              "description": "Life used as a resource, output or payoff."
+            },
+            "Sacrifice Value": {
+              "score": 2.1,
+              "range": [
+                2.1,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Stitcher's Supplier",
+                  "quantity": 1,
+                  "tags": [
+                    "death payoff"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "death payoff": [
+                      "oracle:Stitcher's Supplier:death payoff"
+                    ]
+                  }
+                },
+                {
+                  "card": "Blood Artist",
+                  "quantity": 1,
+                  "tags": [
+                    "death payoff"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "death payoff": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Viscera Seer",
+                  "quantity": 1,
+                  "tags": [
+                    "sacrifice outlet"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "sacrifice outlet": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 7,
+              "description": "Sacrifice outlets and associated payoffs."
+            },
+            "Token Production": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Token sources; does not predict exact board size."
+            },
+            "Counter / Proliferate Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Counter sources and multiplication."
+            },
+            "Table Inevitability": {
+              "score": 1.7,
+              "range": [
+                1.7,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Reanimate",
+                  "quantity": 1,
+                  "tags": [
+                    "recursion"
+                  ],
+                  "weight": 0.8,
+                  "rules": {
+                    "recursion": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Animate Dead",
+                  "quantity": 1,
+                  "tags": [
+                    "recursion"
+                  ],
+                  "weight": 0.8,
+                  "rules": {
+                    "recursion": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Eternal Witness",
+                  "quantity": 1,
+                  "tags": [
+                    "recursion"
+                  ],
+                  "weight": 0.8,
+                  "rules": {
+                    "recursion": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Blood Artist",
+                  "quantity": 1,
+                  "tags": [
+                    "life drain"
+                  ],
+                  "weight": 0.6,
+                  "rules": {
+                    "life drain": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 9,
+              "description": "Repeatable value and reach if left unchecked."
+            },
+            "Speed": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed acceleration and cheap engines; not a simulated winning turn."
+            },
+            "Stank Score": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Sudden memorable swings; deliberately distinct from overall power."
+            }
+          },
+          "warnings": [
+            "7 cards supplied including commander(s); this is a partial list."
+          ],
+          "unmatched": [],
+          "overview": {
+            "plan": [
+              "Sacrifice value",
+              "Graveyard recycling",
+              "Life exchange"
+            ],
+            "lands": 0,
+            "average_mana_value": 2.0,
+            "finishers": [],
+            "weaknesses": [
+              "Little observed spot interaction; missing cards may change this.",
+              "Little observed card advantage; missing cards may change this.",
+              "Little observed resilience / protection; missing cards may change this."
+            ],
+            "commander_role": "evasion, flying",
+            "interaction": []
+          }
+        },
+        "mine": {
+          "commander": [
+            "Test Commander"
+          ],
+          "identity": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+          ],
+          "identity_known": true,
+          "supplied": 5,
+          "resolved": 5,
+          "missing": 95,
+          "confidence": {
+            "level": "Low",
+            "index": 5,
+            "completeness": 0.05,
+            "note": "Ranges are conservative heuristic bounds, not statistical confidence intervals. Missing cards are unknown."
+          },
+          "scores": {
+            "Acceleration": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Nonland mana acceleration and cost reduction."
+            },
+            "Card Advantage": {
+              "score": 0.5,
+              "range": [
+                0.5,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Soul-Guide Lantern",
+                  "quantity": 1,
+                  "tags": [
+                    "draw"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "draw": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 10,
+              "description": "Observed draw and temporary card access."
+            },
+            "Tutors / Consistency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Searching for nonland cards; not an overall consistency estimate."
+            },
+            "Graveyard Power": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Filling, exploiting and reusing graveyards."
+            },
+            "Recursion": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Returning or replaying expended resources."
+            },
+            "Resilience / Protection": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Protection and recovery; not immunity to wipes."
+            },
+            "Spot Interaction": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Targeted interaction; applicability is assessed separately."
+            },
+            "Board Wipes": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Mass interaction, including conditional or asymmetric effects."
+            },
+            "Commander Dependency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 6,
+              "description": "Observed commander support; dependency cannot be proven from card text alone."
+            },
+            "Evasion": {
+              "score": 0.4,
+              "range": [
+                0.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "evasion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "evasion": [
+                      "oracle:Test Commander:evasion"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Ability to bypass or overwhelm blockers."
+            },
+            "Combat Scaling": {
+              "score": 0.5,
+              "range": [
+                0.5,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Scavenging Ooze",
+                  "quantity": 1,
+                  "tags": [
+                    "counters"
+                  ],
+                  "weight": 0.8,
+                  "rules": {
+                    "counters": [
+                      "oracle:Scavenging Ooze:counters"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 8,
+              "description": "Growth of combat damage rather than current board power."
+            },
+            "Burst Potential": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Observed potential for sudden high-impact turns."
+            },
+            "Combo / Engine Density": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Engine ingredients; not a count of proven combos."
+            },
+            "Single-Card Bombs": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Curated haymakers, independently of synergy."
+            },
+            "Artifact Reliance": {
+              "score": 0.1,
+              "range": [
+                0.1,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Soul-Guide Lantern",
+                  "quantity": 1,
+                  "tags": [
+                    "artifact body"
+                  ],
+                  "weight": 0.5,
+                  "rules": {
+                    "artifact body": [
+                      "type:Artifact"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 18,
+              "description": "Artifact presence and explicit payoffs; density is only a proxy for reliance."
+            },
+            "Enchantment Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 12,
+              "description": "Enchantment presence and payoffs."
+            },
+            "Creature Reliance": {
+              "score": 0.3,
+              "range": [
+                0.3,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Scavenging Ooze",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                },
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 32,
+              "description": "Observed creature density."
+            },
+            "Graveyard Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Effects that need graveyard resources."
+            },
+            "Life Gain / Life Resource Abuse": {
+              "score": 0.4,
+              "range": [
+                0.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Scavenging Ooze",
+                  "quantity": 1,
+                  "tags": [
+                    "life gain"
+                  ],
+                  "weight": 0.7,
+                  "rules": {
+                    "life gain": [
+                      "oracle:Scavenging Ooze:life gain"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 8,
+              "description": "Life used as a resource, output or payoff."
+            },
+            "Sacrifice Value": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Sacrifice outlets and associated payoffs."
+            },
+            "Token Production": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Token sources; does not predict exact board size."
+            },
+            "Counter / Proliferate Scaling": {
+              "score": 0.6,
+              "range": [
+                0.6,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Scavenging Ooze",
+                  "quantity": 1,
+                  "tags": [
+                    "counters"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "counters": [
+                      "oracle:Scavenging Ooze:counters"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 9,
+              "description": "Counter sources and multiplication."
+            },
+            "Table Inevitability": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Repeatable value and reach if left unchecked."
+            },
+            "Speed": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed acceleration and cheap engines; not a simulated winning turn."
+            },
+            "Stank Score": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Sudden memorable swings; deliberately distinct from overall power."
+            }
+          },
+          "warnings": [
+            "5 cards supplied including commander(s); this is a partial list."
+          ],
+          "unmatched": [],
+          "overview": {
+            "plan": [],
+            "lands": 2,
+            "average_mana_value": 2.33,
+            "finishers": [],
+            "weaknesses": [
+              "Little observed spot interaction; missing cards may change this.",
+              "Little observed card advantage; missing cards may change this.",
+              "Little observed resilience / protection; missing cards may change this."
+            ],
+            "commander_role": "evasion, flying",
+            "interaction": [
+              "Soul-Guide Lantern",
+              "Bojuka Bog",
+              "Scavenger Grounds",
+              "Scavenging Ooze"
+            ]
+          }
+        },
+        "matchup": {
+          "rows": [
+            {
+              "axis": "Explosive engines",
+              "threat": 2.1,
+              "coverage": 0.0,
+              "status": "Critical",
+              "weight": 5.071,
+              "profile_multiplier": 1.15,
+              "answers": [],
+              "threat_cards": [
+                "Animate Dead",
+                "Blood Artist",
+                "Eternal Witness",
+                "Reanimate",
+                "Stitcher's Supplier",
+                "Viscera Seer"
+              ],
+              "coverage_range": [
+                0.0,
+                5
+              ],
+              "threat_range": [
+                2.1,
+                5
+              ]
+            },
+            {
+              "axis": "Life drain / resources",
+              "threat": 1.2,
+              "coverage": 0.0,
+              "status": "Critical",
+              "weight": 1.44,
+              "profile_multiplier": 1,
+              "answers": [],
+              "threat_cards": [
+                "Blood Artist",
+                "Reanimate"
+              ],
+              "coverage_range": [
+                0.0,
+                5
+              ],
+              "threat_range": [
+                1.2,
+                5
+              ]
+            },
+            {
+              "axis": "Creature pressure",
+              "threat": 0.8,
+              "coverage": 0.0,
+              "status": "Critical",
+              "weight": 0.64,
+              "profile_multiplier": 1,
+              "answers": [],
+              "threat_cards": [
+                "Blood Artist",
+                "Eternal Witness",
+                "Stitcher's Supplier",
+                "Test Commander",
+                "Viscera Seer"
+              ],
+              "coverage_range": [
+                0.0,
+                5
+              ],
+              "threat_range": [
+                0.8,
+                5
+              ]
+            },
+            {
+              "axis": "Graveyard recursion",
+              "threat": 2.6,
+              "coverage": 5,
+              "status": "Strong",
+              "weight": 7.774,
+              "profile_multiplier": 1.15,
+              "answers": [
+                {
+                  "card": "Soul-Guide Lantern",
+                  "weight": 1.2,
+                  "base": 1.2,
+                  "speed_factor": 1.0,
+                  "repeat_factor": 1.0,
+                  "resilience_factor": 1.0,
+                  "breadth_factor": 1.0,
+                  "reusable": false,
+                  "narrow": false,
+                  "reason": "Direct graveyard disruption; inspect target and timing restrictions.",
+                  "limitations": "Activation costs, board access, MDFC face choice and timing require manual review."
+                },
+                {
+                  "card": "Bojuka Bog",
+                  "weight": 0.78,
+                  "base": 1.2,
+                  "speed_factor": 0.65,
+                  "repeat_factor": 1.0,
+                  "resilience_factor": 1.0,
+                  "breadth_factor": 1.0,
+                  "reusable": false,
+                  "narrow": false,
+                  "reason": "Direct graveyard disruption; inspect target and timing restrictions.",
+                  "limitations": "Activation costs, board access, MDFC face choice and timing require manual review."
+                },
+                {
+                  "card": "Scavenger Grounds",
+                  "weight": 1.2,
+                  "base": 1.2,
+                  "speed_factor": 1.0,
+                  "repeat_factor": 1.0,
+                  "resilience_factor": 1.0,
+                  "breadth_factor": 1.0,
+                  "reusable": false,
+                  "narrow": false,
+                  "reason": "Direct graveyard disruption; inspect target and timing restrictions.",
+                  "limitations": "Activation costs, board access, MDFC face choice and timing require manual review."
+                },
+                {
+                  "card": "Scavenging Ooze",
+                  "weight": 1.44,
+                  "base": 1.2,
+                  "speed_factor": 1.0,
+                  "repeat_factor": 1.2,
+                  "resilience_factor": 1.0,
+                  "breadth_factor": 1.0,
+                  "reusable": true,
+                  "narrow": false,
+                  "reason": "Direct graveyard disruption; inspect target and timing restrictions.",
+                  "limitations": "Activation costs, board access, MDFC face choice and timing require manual review."
+                }
+              ],
+              "threat_cards": [
+                "Animate Dead",
+                "Eternal Witness",
+                "Reanimate",
+                "Stitcher's Supplier"
+              ],
+              "coverage_range": [
+                5,
+                5
+              ],
+              "threat_range": [
+                2.6,
+                5
+              ]
+            }
+          ],
+          "readiness": 45,
+          "readiness_range": [
+            0,
+            100
+          ],
+          "pressure": 0.033,
+          "coverage_ratio": 0.521,
+          "overreaction": {
+            "risk": "High",
+            "advice": [
+              "Graveyard recursion: observed coverage is already strong. Do not add more dedicated hate unless the local meta changes."
+            ]
+          },
+          "partial": true,
+          "note": "Observed coverage index, not win probability. Partial lists cannot establish overall readiness; 0\u2013100 bounds acknowledge unknown threats and answers.",
+          "formula": "100 \u00d7 (0.85 \u00d7 \u03a3(T\u00b2 \u00d7 profile \u00d7 min(1,C/max(T,1))) / \u03a3(T\u00b2 \u00d7 profile) + 0.15 \u00d7 pressure)",
+          "version": "1.0"
+        },
+        "recommendations": {
+          "changes": [
+            {
+              "add": "Beast Within",
+              "reason": "Instant-speed interaction for any permanent; trades the problem for a 3/3, so it remains useful beyond this matchup.",
+              "axes": [
+                "Explosive engines"
+              ],
+              "targeted_hate": false,
+              "filthy": false,
+              "cut": null,
+              "cut_reason": "No safe cut inferred. Review the full list rather than removing mana, interaction or an identified engine.",
+              "provisional": true,
+              "prices": {},
+              "bracket_note": "Compatible with B2 philosophy; official bracket impact requires the separate advisory check."
+            },
+            {
+              "add": "Generous Gift",
+              "reason": "Broad instant-speed permanent removal with a 3/3 replacement. Answers enchantments without dedicating a slot solely to hate.",
+              "axes": [
+                "Explosive engines"
+              ],
+              "targeted_hate": false,
+              "filthy": false,
+              "cut": null,
+              "cut_reason": "No safe cut inferred. Review the full list rather than removing mana, interaction or an identified engine.",
+              "provisional": true,
+              "prices": {},
+              "bracket_note": "Compatible with B2 philosophy; official bracket impact requires the separate advisory check."
+            }
+          ],
+          "message": "Smallest set within the curated catalogue that improves observed gaps; up to five. Additions are not applied automatically. Candidate cuts require review.",
+          "withheld": [],
+          "remaining_gaps": []
+        }
+      }
+    },
+    {
+      "name": "Enchantment gap",
+      "opponent": {
+        "name": "Enchantment gap",
+        "text": "8 Mystic Engine",
+        "commander": "Test Commander"
+      },
+      "mine": {
+        "name": "My Enchantment gap",
+        "text": "Vanilla Giant\nForest",
+        "commander": "Test Commander"
+      },
+      "environment": "B2",
+      "profile": "",
+      "expected": {
+        "opponent": {
+          "commander": [
+            "Test Commander"
+          ],
+          "identity": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+          ],
+          "identity_known": true,
+          "supplied": 9,
+          "resolved": 9,
+          "missing": 91,
+          "confidence": {
+            "level": "Low",
+            "index": 9,
+            "completeness": 0.09,
+            "note": "Ranges are conservative heuristic bounds, not statistical confidence intervals. Missing cards are unknown."
+          },
+          "scores": {
+            "Acceleration": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Nonland mana acceleration and cost reduction."
+            },
+            "Card Advantage": {
+              "score": 4.0,
+              "range": [
+                4.0,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Mystic Engine",
+                  "quantity": 8,
+                  "tags": [
+                    "draw"
+                  ],
+                  "weight": 8,
+                  "rules": {
+                    "draw": [
+                      "oracle:Mystic Engine:draw"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 10,
+              "description": "Observed draw and temporary card access."
+            },
+            "Tutors / Consistency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Searching for nonland cards; not an overall consistency estimate."
+            },
+            "Graveyard Power": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Filling, exploiting and reusing graveyards."
+            },
+            "Recursion": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Returning or replaying expended resources."
+            },
+            "Resilience / Protection": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Protection and recovery; not immunity to wipes."
+            },
+            "Spot Interaction": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Targeted interaction; applicability is assessed separately."
+            },
+            "Board Wipes": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Mass interaction, including conditional or asymmetric effects."
+            },
+            "Commander Dependency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 6,
+              "description": "Observed commander support; dependency cannot be proven from card text alone."
+            },
+            "Evasion": {
+              "score": 0.4,
+              "range": [
+                0.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "evasion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "evasion": [
+                      "oracle:Test Commander:evasion"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Ability to bypass or overwhelm blockers."
+            },
+            "Combat Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Growth of combat damage rather than current board power."
+            },
+            "Burst Potential": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Observed potential for sudden high-impact turns."
+            },
+            "Combo / Engine Density": {
+              "score": 3.4,
+              "range": [
+                3.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Mystic Engine",
+                  "quantity": 8,
+                  "tags": [
+                    "cast payoff"
+                  ],
+                  "weight": 4.8,
+                  "rules": {
+                    "cast payoff": [
+                      "oracle:Mystic Engine:cast payoff"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 7,
+              "description": "Engine ingredients; not a count of proven combos."
+            },
+            "Single-Card Bombs": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Curated haymakers, independently of synergy."
+            },
+            "Artifact Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 18,
+              "description": "Artifact presence and explicit payoffs; density is only a proxy for reliance."
+            },
+            "Enchantment Reliance": {
+              "score": 5,
+              "range": [
+                5,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Mystic Engine",
+                  "quantity": 8,
+                  "tags": [
+                    "enchantment body",
+                    "enchantment synergy"
+                  ],
+                  "weight": 12.0,
+                  "rules": {
+                    "enchantment body": [
+                      "type:Enchantment"
+                    ],
+                    "enchantment synergy": [
+                      "oracle:Mystic Engine:enchantment synergy"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Enchantment presence and payoffs."
+            },
+            "Creature Reliance": {
+              "score": 0.2,
+              "range": [
+                0.2,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 32,
+              "description": "Observed creature density."
+            },
+            "Graveyard Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Effects that need graveyard resources."
+            },
+            "Life Gain / Life Resource Abuse": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Life used as a resource, output or payoff."
+            },
+            "Sacrifice Value": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Sacrifice outlets and associated payoffs."
+            },
+            "Token Production": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Token sources; does not predict exact board size."
+            },
+            "Counter / Proliferate Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Counter sources and multiplication."
+            },
+            "Table Inevitability": {
+              "score": 3.1,
+              "range": [
+                3.1,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Mystic Engine",
+                  "quantity": 8,
+                  "tags": [
+                    "cast payoff"
+                  ],
+                  "weight": 5.6,
+                  "rules": {
+                    "cast payoff": [
+                      "oracle:Mystic Engine:cast payoff"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 9,
+              "description": "Repeatable value and reach if left unchecked."
+            },
+            "Speed": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed acceleration and cheap engines; not a simulated winning turn."
+            },
+            "Stank Score": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Sudden memorable swings; deliberately distinct from overall power."
+            }
+          },
+          "warnings": [
+            "9 cards supplied including commander(s); this is a partial list.",
+            "Mystic Engine appears 8 times; check singleton legality."
+          ],
+          "unmatched": [],
+          "overview": {
+            "plan": [
+              "Enchantment Reliance",
+              "Card Advantage",
+              "Combo / Engine Density"
+            ],
+            "lands": 0,
+            "average_mana_value": 3.11,
+            "finishers": [],
+            "weaknesses": [
+              "Little observed spot interaction; missing cards may change this.",
+              "Little observed resilience / protection; missing cards may change this."
+            ],
+            "commander_role": "evasion, flying",
+            "interaction": []
+          }
+        },
+        "mine": {
+          "commander": [
+            "Test Commander"
+          ],
+          "identity": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+          ],
+          "identity_known": true,
+          "supplied": 3,
+          "resolved": 3,
+          "missing": 97,
+          "confidence": {
+            "level": "Low",
+            "index": 3,
+            "completeness": 0.03,
+            "note": "Ranges are conservative heuristic bounds, not statistical confidence intervals. Missing cards are unknown."
+          },
+          "scores": {
+            "Acceleration": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Nonland mana acceleration and cost reduction."
+            },
+            "Card Advantage": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed draw and temporary card access."
+            },
+            "Tutors / Consistency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Searching for nonland cards; not an overall consistency estimate."
+            },
+            "Graveyard Power": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Filling, exploiting and reusing graveyards."
+            },
+            "Recursion": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Returning or replaying expended resources."
+            },
+            "Resilience / Protection": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Protection and recovery; not immunity to wipes."
+            },
+            "Spot Interaction": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Targeted interaction; applicability is assessed separately."
+            },
+            "Board Wipes": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Mass interaction, including conditional or asymmetric effects."
+            },
+            "Commander Dependency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 6,
+              "description": "Observed commander support; dependency cannot be proven from card text alone."
+            },
+            "Evasion": {
+              "score": 0.4,
+              "range": [
+                0.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "evasion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "evasion": [
+                      "oracle:Test Commander:evasion"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Ability to bypass or overwhelm blockers."
+            },
+            "Combat Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Growth of combat damage rather than current board power."
+            },
+            "Burst Potential": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Observed potential for sudden high-impact turns."
+            },
+            "Combo / Engine Density": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Engine ingredients; not a count of proven combos."
+            },
+            "Single-Card Bombs": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Curated haymakers, independently of synergy."
+            },
+            "Artifact Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 18,
+              "description": "Artifact presence and explicit payoffs; density is only a proxy for reliance."
+            },
+            "Enchantment Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 12,
+              "description": "Enchantment presence and payoffs."
+            },
+            "Creature Reliance": {
+              "score": 0.3,
+              "range": [
+                0.3,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Vanilla Giant",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                },
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 32,
+              "description": "Observed creature density."
+            },
+            "Graveyard Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Effects that need graveyard resources."
+            },
+            "Life Gain / Life Resource Abuse": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Life used as a resource, output or payoff."
+            },
+            "Sacrifice Value": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Sacrifice outlets and associated payoffs."
+            },
+            "Token Production": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Token sources; does not predict exact board size."
+            },
+            "Counter / Proliferate Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Counter sources and multiplication."
+            },
+            "Table Inevitability": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Repeatable value and reach if left unchecked."
+            },
+            "Speed": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed acceleration and cheap engines; not a simulated winning turn."
+            },
+            "Stank Score": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Sudden memorable swings; deliberately distinct from overall power."
+            }
+          },
+          "warnings": [
+            "3 cards supplied including commander(s); this is a partial list."
+          ],
+          "unmatched": [],
+          "overview": {
+            "plan": [],
+            "lands": 1,
+            "average_mana_value": 5.0,
+            "finishers": [],
+            "weaknesses": [
+              "Little observed spot interaction; missing cards may change this.",
+              "Little observed card advantage; missing cards may change this.",
+              "Little observed resilience / protection; missing cards may change this."
+            ],
+            "commander_role": "evasion, flying",
+            "interaction": []
+          }
+        },
+        "matchup": {
+          "rows": [
+            {
+              "axis": "Enchantment engines",
+              "threat": 5,
+              "coverage": 0.0,
+              "status": "Critical",
+              "weight": 25,
+              "profile_multiplier": 1,
+              "answers": [],
+              "threat_cards": [
+                "Mystic Engine"
+              ],
+              "coverage_range": [
+                0.0,
+                5
+              ],
+              "threat_range": [
+                5,
+                5
+              ]
+            },
+            {
+              "axis": "Explosive engines",
+              "threat": 3.4,
+              "coverage": 0.0,
+              "status": "Critical",
+              "weight": 11.56,
+              "profile_multiplier": 1,
+              "answers": [],
+              "threat_cards": [
+                "Mystic Engine"
+              ],
+              "coverage_range": [
+                0.0,
+                5
+              ],
+              "threat_range": [
+                3.4,
+                5
+              ]
+            }
+          ],
+          "readiness": 0,
+          "readiness_range": [
+            0,
+            100
+          ],
+          "pressure": 0.0,
+          "coverage_ratio": 0.0,
+          "overreaction": {
+            "risk": "Low",
+            "advice": []
+          },
+          "partial": true,
+          "note": "Observed coverage index, not win probability. Partial lists cannot establish overall readiness; 0\u2013100 bounds acknowledge unknown threats and answers.",
+          "formula": "100 \u00d7 (0.85 \u00d7 \u03a3(T\u00b2 \u00d7 profile \u00d7 min(1,C/max(T,1))) / \u03a3(T\u00b2 \u00d7 profile) + 0.15 \u00d7 pressure)",
+          "version": "1.0"
+        },
+        "recommendations": {
+          "changes": [
+            {
+              "add": "Beast Within",
+              "reason": "Instant-speed interaction for any permanent; trades the problem for a 3/3, so it remains useful beyond this matchup.",
+              "axes": [
+                "Enchantment engines",
+                "Explosive engines"
+              ],
+              "targeted_hate": false,
+              "filthy": false,
+              "cut": "Vanilla Giant",
+              "cut_reason": "Candidate with comparatively few detected roles, outside identified engines. Theme and hidden synergies need your review; this is not a claim that the card is bad.",
+              "provisional": true,
+              "prices": {},
+              "bracket_note": "Compatible with B2 philosophy; official bracket impact requires the separate advisory check."
+            },
+            {
+              "add": "Generous Gift",
+              "reason": "Broad instant-speed permanent removal with a 3/3 replacement. Answers enchantments without dedicating a slot solely to hate.",
+              "axes": [
+                "Enchantment engines",
+                "Explosive engines"
+              ],
+              "targeted_hate": false,
+              "filthy": false,
+              "cut": null,
+              "cut_reason": "No safe cut inferred. Review the full list rather than removing mana, interaction or an identified engine.",
+              "provisional": true,
+              "prices": {},
+              "bracket_note": "Compatible with B2 philosophy; official bracket impact requires the separate advisory check."
+            },
+            {
+              "add": "Swords to Plowshares",
+              "reason": "One-mana instant creature exile can remove a key attacker or creature engine; cannot stop noncreature engines.",
+              "axes": [
+                "Explosive engines"
+              ],
+              "targeted_hate": false,
+              "filthy": false,
+              "cut": null,
+              "cut_reason": "No safe cut inferred. Review the full list rather than removing mana, interaction or an identified engine.",
+              "provisional": true,
+              "prices": {},
+              "bracket_note": "Compatible with B2 philosophy; official bracket impact requires the separate advisory check."
+            },
+            {
+              "add": "Counterspell",
+              "reason": "Stops a spell before it resolves; does not answer a resolved engine, triggered ability or activated ability.",
+              "axes": [
+                "Explosive engines"
+              ],
+              "targeted_hate": false,
+              "filthy": false,
+              "cut": null,
+              "cut_reason": "No safe cut inferred. Review the full list rather than removing mana, interaction or an identified engine.",
+              "provisional": true,
+              "prices": {},
+              "bracket_note": "Compatible with B2 philosophy; official bracket impact requires the separate advisory check."
+            }
+          ],
+          "message": "Smallest set within the curated catalogue that improves observed gaps; up to five. Additions are not applied automatically. Candidate cuts require review.",
+          "withheld": [
+            "Feed the Swarm: could not verify Commander legality and colour identity.",
+            "Chaos Warp: could not verify Commander legality and colour identity.",
+            "Austere Command: could not verify Commander legality and colour identity.",
+            "Nevinyrral's Disk: could not verify Commander legality and colour identity."
+          ],
+          "remaining_gaps": [
+            "Enchantment engines"
+          ]
+        }
+      }
+    },
+    {
+      "name": "B3 enchantment gap",
+      "opponent": {
+        "name": "B3 enchantment gap",
+        "text": "8 Mystic Engine",
+        "commander": "Test Commander"
+      },
+      "mine": {
+        "name": "My B3 enchantment gap",
+        "text": "Vanilla Giant\nForest",
+        "commander": "Test Commander"
+      },
+      "environment": "B3",
+      "profile": "",
+      "expected": {
+        "opponent": {
+          "commander": [
+            "Test Commander"
+          ],
+          "identity": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+          ],
+          "identity_known": true,
+          "supplied": 9,
+          "resolved": 9,
+          "missing": 91,
+          "confidence": {
+            "level": "Low",
+            "index": 9,
+            "completeness": 0.09,
+            "note": "Ranges are conservative heuristic bounds, not statistical confidence intervals. Missing cards are unknown."
+          },
+          "scores": {
+            "Acceleration": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Nonland mana acceleration and cost reduction."
+            },
+            "Card Advantage": {
+              "score": 4.0,
+              "range": [
+                4.0,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Mystic Engine",
+                  "quantity": 8,
+                  "tags": [
+                    "draw"
+                  ],
+                  "weight": 8,
+                  "rules": {
+                    "draw": [
+                      "oracle:Mystic Engine:draw"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 10,
+              "description": "Observed draw and temporary card access."
+            },
+            "Tutors / Consistency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Searching for nonland cards; not an overall consistency estimate."
+            },
+            "Graveyard Power": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Filling, exploiting and reusing graveyards."
+            },
+            "Recursion": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Returning or replaying expended resources."
+            },
+            "Resilience / Protection": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Protection and recovery; not immunity to wipes."
+            },
+            "Spot Interaction": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Targeted interaction; applicability is assessed separately."
+            },
+            "Board Wipes": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Mass interaction, including conditional or asymmetric effects."
+            },
+            "Commander Dependency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 6,
+              "description": "Observed commander support; dependency cannot be proven from card text alone."
+            },
+            "Evasion": {
+              "score": 0.4,
+              "range": [
+                0.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "evasion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "evasion": [
+                      "oracle:Test Commander:evasion"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Ability to bypass or overwhelm blockers."
+            },
+            "Combat Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Growth of combat damage rather than current board power."
+            },
+            "Burst Potential": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Observed potential for sudden high-impact turns."
+            },
+            "Combo / Engine Density": {
+              "score": 3.4,
+              "range": [
+                3.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Mystic Engine",
+                  "quantity": 8,
+                  "tags": [
+                    "cast payoff"
+                  ],
+                  "weight": 4.8,
+                  "rules": {
+                    "cast payoff": [
+                      "oracle:Mystic Engine:cast payoff"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 7,
+              "description": "Engine ingredients; not a count of proven combos."
+            },
+            "Single-Card Bombs": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Curated haymakers, independently of synergy."
+            },
+            "Artifact Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 18,
+              "description": "Artifact presence and explicit payoffs; density is only a proxy for reliance."
+            },
+            "Enchantment Reliance": {
+              "score": 5,
+              "range": [
+                5,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Mystic Engine",
+                  "quantity": 8,
+                  "tags": [
+                    "enchantment body",
+                    "enchantment synergy"
+                  ],
+                  "weight": 12.0,
+                  "rules": {
+                    "enchantment body": [
+                      "type:Enchantment"
+                    ],
+                    "enchantment synergy": [
+                      "oracle:Mystic Engine:enchantment synergy"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Enchantment presence and payoffs."
+            },
+            "Creature Reliance": {
+              "score": 0.2,
+              "range": [
+                0.2,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 32,
+              "description": "Observed creature density."
+            },
+            "Graveyard Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Effects that need graveyard resources."
+            },
+            "Life Gain / Life Resource Abuse": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Life used as a resource, output or payoff."
+            },
+            "Sacrifice Value": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Sacrifice outlets and associated payoffs."
+            },
+            "Token Production": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Token sources; does not predict exact board size."
+            },
+            "Counter / Proliferate Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Counter sources and multiplication."
+            },
+            "Table Inevitability": {
+              "score": 3.1,
+              "range": [
+                3.1,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Mystic Engine",
+                  "quantity": 8,
+                  "tags": [
+                    "cast payoff"
+                  ],
+                  "weight": 5.6,
+                  "rules": {
+                    "cast payoff": [
+                      "oracle:Mystic Engine:cast payoff"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 9,
+              "description": "Repeatable value and reach if left unchecked."
+            },
+            "Speed": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed acceleration and cheap engines; not a simulated winning turn."
+            },
+            "Stank Score": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Sudden memorable swings; deliberately distinct from overall power."
+            }
+          },
+          "warnings": [
+            "9 cards supplied including commander(s); this is a partial list.",
+            "Mystic Engine appears 8 times; check singleton legality."
+          ],
+          "unmatched": [],
+          "overview": {
+            "plan": [
+              "Enchantment Reliance",
+              "Card Advantage",
+              "Combo / Engine Density"
+            ],
+            "lands": 0,
+            "average_mana_value": 3.11,
+            "finishers": [],
+            "weaknesses": [
+              "Little observed spot interaction; missing cards may change this.",
+              "Little observed resilience / protection; missing cards may change this."
+            ],
+            "commander_role": "evasion, flying",
+            "interaction": []
+          }
+        },
+        "mine": {
+          "commander": [
+            "Test Commander"
+          ],
+          "identity": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+          ],
+          "identity_known": true,
+          "supplied": 3,
+          "resolved": 3,
+          "missing": 97,
+          "confidence": {
+            "level": "Low",
+            "index": 3,
+            "completeness": 0.03,
+            "note": "Ranges are conservative heuristic bounds, not statistical confidence intervals. Missing cards are unknown."
+          },
+          "scores": {
+            "Acceleration": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Nonland mana acceleration and cost reduction."
+            },
+            "Card Advantage": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed draw and temporary card access."
+            },
+            "Tutors / Consistency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Searching for nonland cards; not an overall consistency estimate."
+            },
+            "Graveyard Power": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Filling, exploiting and reusing graveyards."
+            },
+            "Recursion": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Returning or replaying expended resources."
+            },
+            "Resilience / Protection": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Protection and recovery; not immunity to wipes."
+            },
+            "Spot Interaction": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Targeted interaction; applicability is assessed separately."
+            },
+            "Board Wipes": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Mass interaction, including conditional or asymmetric effects."
+            },
+            "Commander Dependency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 6,
+              "description": "Observed commander support; dependency cannot be proven from card text alone."
+            },
+            "Evasion": {
+              "score": 0.4,
+              "range": [
+                0.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "evasion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "evasion": [
+                      "oracle:Test Commander:evasion"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Ability to bypass or overwhelm blockers."
+            },
+            "Combat Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Growth of combat damage rather than current board power."
+            },
+            "Burst Potential": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Observed potential for sudden high-impact turns."
+            },
+            "Combo / Engine Density": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Engine ingredients; not a count of proven combos."
+            },
+            "Single-Card Bombs": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Curated haymakers, independently of synergy."
+            },
+            "Artifact Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 18,
+              "description": "Artifact presence and explicit payoffs; density is only a proxy for reliance."
+            },
+            "Enchantment Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 12,
+              "description": "Enchantment presence and payoffs."
+            },
+            "Creature Reliance": {
+              "score": 0.3,
+              "range": [
+                0.3,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Vanilla Giant",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                },
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 32,
+              "description": "Observed creature density."
+            },
+            "Graveyard Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Effects that need graveyard resources."
+            },
+            "Life Gain / Life Resource Abuse": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Life used as a resource, output or payoff."
+            },
+            "Sacrifice Value": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Sacrifice outlets and associated payoffs."
+            },
+            "Token Production": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Token sources; does not predict exact board size."
+            },
+            "Counter / Proliferate Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Counter sources and multiplication."
+            },
+            "Table Inevitability": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Repeatable value and reach if left unchecked."
+            },
+            "Speed": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed acceleration and cheap engines; not a simulated winning turn."
+            },
+            "Stank Score": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Sudden memorable swings; deliberately distinct from overall power."
+            }
+          },
+          "warnings": [
+            "3 cards supplied including commander(s); this is a partial list."
+          ],
+          "unmatched": [],
+          "overview": {
+            "plan": [],
+            "lands": 1,
+            "average_mana_value": 5.0,
+            "finishers": [],
+            "weaknesses": [
+              "Little observed spot interaction; missing cards may change this.",
+              "Little observed card advantage; missing cards may change this.",
+              "Little observed resilience / protection; missing cards may change this."
+            ],
+            "commander_role": "evasion, flying",
+            "interaction": []
+          }
+        },
+        "matchup": {
+          "rows": [
+            {
+              "axis": "Enchantment engines",
+              "threat": 5,
+              "coverage": 0.0,
+              "status": "Critical",
+              "weight": 25,
+              "profile_multiplier": 1,
+              "answers": [],
+              "threat_cards": [
+                "Mystic Engine"
+              ],
+              "coverage_range": [
+                0.0,
+                5
+              ],
+              "threat_range": [
+                5,
+                5
+              ]
+            },
+            {
+              "axis": "Explosive engines",
+              "threat": 3.4,
+              "coverage": 0.0,
+              "status": "Critical",
+              "weight": 11.56,
+              "profile_multiplier": 1,
+              "answers": [],
+              "threat_cards": [
+                "Mystic Engine"
+              ],
+              "coverage_range": [
+                0.0,
+                5
+              ],
+              "threat_range": [
+                3.4,
+                5
+              ]
+            }
+          ],
+          "readiness": 0,
+          "readiness_range": [
+            0,
+            100
+          ],
+          "pressure": 0.0,
+          "coverage_ratio": 0.0,
+          "overreaction": {
+            "risk": "Low",
+            "advice": []
+          },
+          "partial": true,
+          "note": "Observed coverage index, not win probability. Partial lists cannot establish overall readiness; 0\u2013100 bounds acknowledge unknown threats and answers.",
+          "formula": "100 \u00d7 (0.85 \u00d7 \u03a3(T\u00b2 \u00d7 profile \u00d7 min(1,C/max(T,1))) / \u03a3(T\u00b2 \u00d7 profile) + 0.15 \u00d7 pressure)",
+          "version": "1.0"
+        },
+        "recommendations": {
+          "changes": [
+            {
+              "add": "Beast Within",
+              "reason": "Instant-speed interaction for any permanent; trades the problem for a 3/3, so it remains useful beyond this matchup.",
+              "axes": [
+                "Enchantment engines",
+                "Explosive engines"
+              ],
+              "targeted_hate": false,
+              "filthy": false,
+              "cut": "Vanilla Giant",
+              "cut_reason": "Candidate with comparatively few detected roles, outside identified engines. Theme and hidden synergies need your review; this is not a claim that the card is bad.",
+              "provisional": true,
+              "prices": {},
+              "bracket_note": "Compatible with B3 philosophy; official bracket impact requires the separate advisory check."
+            },
+            {
+              "add": "Generous Gift",
+              "reason": "Broad instant-speed permanent removal with a 3/3 replacement. Answers enchantments without dedicating a slot solely to hate.",
+              "axes": [
+                "Enchantment engines",
+                "Explosive engines"
+              ],
+              "targeted_hate": false,
+              "filthy": false,
+              "cut": null,
+              "cut_reason": "No safe cut inferred. Review the full list rather than removing mana, interaction or an identified engine.",
+              "provisional": true,
+              "prices": {},
+              "bracket_note": "Compatible with B3 philosophy; official bracket impact requires the separate advisory check."
+            },
+            {
+              "add": "Swords to Plowshares",
+              "reason": "One-mana instant creature exile can remove a key attacker or creature engine; cannot stop noncreature engines.",
+              "axes": [
+                "Explosive engines"
+              ],
+              "targeted_hate": false,
+              "filthy": false,
+              "cut": null,
+              "cut_reason": "No safe cut inferred. Review the full list rather than removing mana, interaction or an identified engine.",
+              "provisional": true,
+              "prices": {},
+              "bracket_note": "Compatible with B3 philosophy; official bracket impact requires the separate advisory check."
+            },
+            {
+              "add": "Counterspell",
+              "reason": "Stops a spell before it resolves; does not answer a resolved engine, triggered ability or activated ability.",
+              "axes": [
+                "Explosive engines"
+              ],
+              "targeted_hate": false,
+              "filthy": false,
+              "cut": null,
+              "cut_reason": "No safe cut inferred. Review the full list rather than removing mana, interaction or an identified engine.",
+              "provisional": true,
+              "prices": {},
+              "bracket_note": "Compatible with B3 philosophy; official bracket impact requires the separate advisory check."
+            }
+          ],
+          "message": "Smallest set within the curated catalogue that improves observed gaps; up to five. Additions are not applied automatically. Candidate cuts require review.",
+          "withheld": [
+            "Feed the Swarm: could not verify Commander legality and colour identity.",
+            "Chaos Warp: could not verify Commander legality and colour identity.",
+            "Austere Command: could not verify Commander legality and colour identity.",
+            "Nevinyrral's Disk: could not verify Commander legality and colour identity."
+          ],
+          "remaining_gaps": [
+            "Enchantment engines"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Complete basic list",
+      "opponent": {
+        "name": "Complete basic list",
+        "text": "99 Forest",
+        "commander": "Test Commander"
+      },
+      "mine": {
+        "name": "My Complete basic list",
+        "text": "99 Forest",
+        "commander": "Test Commander"
+      },
+      "environment": "B2",
+      "profile": "",
+      "expected": {
+        "opponent": {
+          "commander": [
+            "Test Commander"
+          ],
+          "identity": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+          ],
+          "identity_known": true,
+          "supplied": 100,
+          "resolved": 100,
+          "missing": 0,
+          "confidence": {
+            "level": "High",
+            "index": 100,
+            "completeness": 1,
+            "note": "Ranges are conservative heuristic bounds, not statistical confidence intervals. Missing cards are unknown."
+          },
+          "scores": {
+            "Acceleration": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Nonland mana acceleration and cost reduction."
+            },
+            "Card Advantage": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed draw and temporary card access."
+            },
+            "Tutors / Consistency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Searching for nonland cards; not an overall consistency estimate."
+            },
+            "Graveyard Power": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Filling, exploiting and reusing graveyards."
+            },
+            "Recursion": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Returning or replaying expended resources."
+            },
+            "Resilience / Protection": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Protection and recovery; not immunity to wipes."
+            },
+            "Spot Interaction": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Targeted interaction; applicability is assessed separately."
+            },
+            "Board Wipes": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Mass interaction, including conditional or asymmetric effects."
+            },
+            "Commander Dependency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 6,
+              "description": "Observed commander support; dependency cannot be proven from card text alone."
+            },
+            "Evasion": {
+              "score": 0.4,
+              "range": [
+                0.4,
+                0.4
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "evasion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "evasion": [
+                      "oracle:Test Commander:evasion"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Ability to bypass or overwhelm blockers."
+            },
+            "Combat Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Growth of combat damage rather than current board power."
+            },
+            "Burst Potential": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Observed potential for sudden high-impact turns."
+            },
+            "Combo / Engine Density": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Engine ingredients; not a count of proven combos."
+            },
+            "Single-Card Bombs": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Curated haymakers, independently of synergy."
+            },
+            "Artifact Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 18,
+              "description": "Artifact presence and explicit payoffs; density is only a proxy for reliance."
+            },
+            "Enchantment Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 12,
+              "description": "Enchantment presence and payoffs."
+            },
+            "Creature Reliance": {
+              "score": 0.2,
+              "range": [
+                0.2,
+                0.2
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 32,
+              "description": "Observed creature density."
+            },
+            "Graveyard Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Effects that need graveyard resources."
+            },
+            "Life Gain / Life Resource Abuse": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Life used as a resource, output or payoff."
+            },
+            "Sacrifice Value": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Sacrifice outlets and associated payoffs."
+            },
+            "Token Production": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Token sources; does not predict exact board size."
+            },
+            "Counter / Proliferate Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Counter sources and multiplication."
+            },
+            "Table Inevitability": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Repeatable value and reach if left unchecked."
+            },
+            "Speed": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed acceleration and cheap engines; not a simulated winning turn."
+            },
+            "Stank Score": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Sudden memorable swings; deliberately distinct from overall power."
+            }
+          },
+          "warnings": [],
+          "unmatched": [],
+          "overview": {
+            "plan": [],
+            "lands": 99,
+            "average_mana_value": 4.0,
+            "finishers": [],
+            "weaknesses": [
+              "Low observed spot interaction; inspect supporting cards.",
+              "Low observed card advantage; inspect supporting cards.",
+              "Low observed resilience / protection; inspect supporting cards."
+            ],
+            "commander_role": "evasion, flying",
+            "interaction": []
+          }
+        },
+        "mine": {
+          "commander": [
+            "Test Commander"
+          ],
+          "identity": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+          ],
+          "identity_known": true,
+          "supplied": 100,
+          "resolved": 100,
+          "missing": 0,
+          "confidence": {
+            "level": "High",
+            "index": 100,
+            "completeness": 1,
+            "note": "Ranges are conservative heuristic bounds, not statistical confidence intervals. Missing cards are unknown."
+          },
+          "scores": {
+            "Acceleration": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Nonland mana acceleration and cost reduction."
+            },
+            "Card Advantage": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed draw and temporary card access."
+            },
+            "Tutors / Consistency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Searching for nonland cards; not an overall consistency estimate."
+            },
+            "Graveyard Power": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Filling, exploiting and reusing graveyards."
+            },
+            "Recursion": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Returning or replaying expended resources."
+            },
+            "Resilience / Protection": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Protection and recovery; not immunity to wipes."
+            },
+            "Spot Interaction": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Targeted interaction; applicability is assessed separately."
+            },
+            "Board Wipes": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Mass interaction, including conditional or asymmetric effects."
+            },
+            "Commander Dependency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 6,
+              "description": "Observed commander support; dependency cannot be proven from card text alone."
+            },
+            "Evasion": {
+              "score": 0.4,
+              "range": [
+                0.4,
+                0.4
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "evasion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "evasion": [
+                      "oracle:Test Commander:evasion"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Ability to bypass or overwhelm blockers."
+            },
+            "Combat Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Growth of combat damage rather than current board power."
+            },
+            "Burst Potential": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Observed potential for sudden high-impact turns."
+            },
+            "Combo / Engine Density": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Engine ingredients; not a count of proven combos."
+            },
+            "Single-Card Bombs": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Curated haymakers, independently of synergy."
+            },
+            "Artifact Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 18,
+              "description": "Artifact presence and explicit payoffs; density is only a proxy for reliance."
+            },
+            "Enchantment Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 12,
+              "description": "Enchantment presence and payoffs."
+            },
+            "Creature Reliance": {
+              "score": 0.2,
+              "range": [
+                0.2,
+                0.2
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 32,
+              "description": "Observed creature density."
+            },
+            "Graveyard Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Effects that need graveyard resources."
+            },
+            "Life Gain / Life Resource Abuse": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Life used as a resource, output or payoff."
+            },
+            "Sacrifice Value": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Sacrifice outlets and associated payoffs."
+            },
+            "Token Production": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Token sources; does not predict exact board size."
+            },
+            "Counter / Proliferate Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Counter sources and multiplication."
+            },
+            "Table Inevitability": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Repeatable value and reach if left unchecked."
+            },
+            "Speed": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed acceleration and cheap engines; not a simulated winning turn."
+            },
+            "Stank Score": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                0.0
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Sudden memorable swings; deliberately distinct from overall power."
+            }
+          },
+          "warnings": [],
+          "unmatched": [],
+          "overview": {
+            "plan": [],
+            "lands": 99,
+            "average_mana_value": 4.0,
+            "finishers": [],
+            "weaknesses": [
+              "Low observed spot interaction; inspect supporting cards.",
+              "Low observed card advantage; inspect supporting cards.",
+              "Low observed resilience / protection; inspect supporting cards."
+            ],
+            "commander_role": "evasion, flying",
+            "interaction": []
+          }
+        },
+        "matchup": {
+          "rows": [],
+          "readiness": null,
+          "readiness_range": [
+            null,
+            null
+          ],
+          "pressure": 0.0,
+          "coverage_ratio": null,
+          "overreaction": {
+            "risk": "Low",
+            "advice": []
+          },
+          "partial": false,
+          "note": "Coverage index, not win probability; activation costs, sequencing and multiplayer politics are not simulated.",
+          "formula": "100 \u00d7 (0.85 \u00d7 \u03a3(T\u00b2 \u00d7 profile \u00d7 min(1,C/max(T,1))) / \u03a3(T\u00b2 \u00d7 profile) + 0.15 \u00d7 pressure)",
+          "version": "1.0"
+        },
+        "recommendations": {
+          "changes": [],
+          "message": "No changes justified by observed coverage. Unknown cards may change this conclusion.",
+          "withheld": []
+        }
+      }
+    },
+    {
+      "name": "Unresolved and narrow",
+      "opponent": {
+        "name": "Unresolved and narrow",
+        "text": "Imaginary Card\nMystic Engine",
+        "commander": "Test Commander"
+      },
+      "mine": {
+        "name": "My Unresolved and narrow",
+        "text": "Negate\nSwords to Plowshares",
+        "commander": "Test Commander"
+      },
+      "environment": "B2",
+      "profile": "",
+      "expected": {
+        "opponent": {
+          "commander": [
+            "Test Commander"
+          ],
+          "identity": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+          ],
+          "identity_known": true,
+          "supplied": 3,
+          "resolved": 2,
+          "missing": 98,
+          "confidence": {
+            "level": "Low",
+            "index": 1,
+            "completeness": 0.02,
+            "note": "Ranges are conservative heuristic bounds, not statistical confidence intervals. Missing cards are unknown."
+          },
+          "scores": {
+            "Acceleration": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Nonland mana acceleration and cost reduction."
+            },
+            "Card Advantage": {
+              "score": 0.5,
+              "range": [
+                0.5,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Mystic Engine",
+                  "quantity": 1,
+                  "tags": [
+                    "draw"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "draw": [
+                      "oracle:Mystic Engine:draw"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 10,
+              "description": "Observed draw and temporary card access."
+            },
+            "Tutors / Consistency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Searching for nonland cards; not an overall consistency estimate."
+            },
+            "Graveyard Power": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Filling, exploiting and reusing graveyards."
+            },
+            "Recursion": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Returning or replaying expended resources."
+            },
+            "Resilience / Protection": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Protection and recovery; not immunity to wipes."
+            },
+            "Spot Interaction": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Targeted interaction; applicability is assessed separately."
+            },
+            "Board Wipes": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Mass interaction, including conditional or asymmetric effects."
+            },
+            "Commander Dependency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 6,
+              "description": "Observed commander support; dependency cannot be proven from card text alone."
+            },
+            "Evasion": {
+              "score": 0.4,
+              "range": [
+                0.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "evasion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "evasion": [
+                      "oracle:Test Commander:evasion"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Ability to bypass or overwhelm blockers."
+            },
+            "Combat Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Growth of combat damage rather than current board power."
+            },
+            "Burst Potential": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Observed potential for sudden high-impact turns."
+            },
+            "Combo / Engine Density": {
+              "score": 0.4,
+              "range": [
+                0.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Mystic Engine",
+                  "quantity": 1,
+                  "tags": [
+                    "cast payoff"
+                  ],
+                  "weight": 0.6,
+                  "rules": {
+                    "cast payoff": [
+                      "oracle:Mystic Engine:cast payoff"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 7,
+              "description": "Engine ingredients; not a count of proven combos."
+            },
+            "Single-Card Bombs": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Curated haymakers, independently of synergy."
+            },
+            "Artifact Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 18,
+              "description": "Artifact presence and explicit payoffs; density is only a proxy for reliance."
+            },
+            "Enchantment Reliance": {
+              "score": 0.6,
+              "range": [
+                0.6,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Mystic Engine",
+                  "quantity": 1,
+                  "tags": [
+                    "enchantment body",
+                    "enchantment synergy"
+                  ],
+                  "weight": 1.5,
+                  "rules": {
+                    "enchantment body": [
+                      "type:Enchantment"
+                    ],
+                    "enchantment synergy": [
+                      "oracle:Mystic Engine:enchantment synergy"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Enchantment presence and payoffs."
+            },
+            "Creature Reliance": {
+              "score": 0.2,
+              "range": [
+                0.2,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 32,
+              "description": "Observed creature density."
+            },
+            "Graveyard Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Effects that need graveyard resources."
+            },
+            "Life Gain / Life Resource Abuse": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Life used as a resource, output or payoff."
+            },
+            "Sacrifice Value": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Sacrifice outlets and associated payoffs."
+            },
+            "Token Production": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Token sources; does not predict exact board size."
+            },
+            "Counter / Proliferate Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Counter sources and multiplication."
+            },
+            "Table Inevitability": {
+              "score": 0.4,
+              "range": [
+                0.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Mystic Engine",
+                  "quantity": 1,
+                  "tags": [
+                    "cast payoff"
+                  ],
+                  "weight": 0.7,
+                  "rules": {
+                    "cast payoff": [
+                      "oracle:Mystic Engine:cast payoff"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 9,
+              "description": "Repeatable value and reach if left unchecked."
+            },
+            "Speed": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed acceleration and cheap engines; not a simulated winning turn."
+            },
+            "Stank Score": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Sudden memorable swings; deliberately distinct from overall power."
+            }
+          },
+          "warnings": [
+            "3 cards supplied including commander(s); this is a partial list."
+          ],
+          "unmatched": [
+            {
+              "input": "Imaginary Card",
+              "quantity": 1,
+              "reason": "cache"
+            }
+          ],
+          "overview": {
+            "plan": [],
+            "lands": 0,
+            "average_mana_value": 3.5,
+            "finishers": [],
+            "weaknesses": [
+              "Little observed spot interaction; missing cards may change this.",
+              "Little observed card advantage; missing cards may change this.",
+              "Little observed resilience / protection; missing cards may change this."
+            ],
+            "commander_role": "evasion, flying",
+            "interaction": []
+          }
+        },
+        "mine": {
+          "commander": [
+            "Test Commander"
+          ],
+          "identity": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+          ],
+          "identity_known": true,
+          "supplied": 3,
+          "resolved": 3,
+          "missing": 97,
+          "confidence": {
+            "level": "Low",
+            "index": 3,
+            "completeness": 0.03,
+            "note": "Ranges are conservative heuristic bounds, not statistical confidence intervals. Missing cards are unknown."
+          },
+          "scores": {
+            "Acceleration": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Nonland mana acceleration and cost reduction."
+            },
+            "Card Advantage": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed draw and temporary card access."
+            },
+            "Tutors / Consistency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Searching for nonland cards; not an overall consistency estimate."
+            },
+            "Graveyard Power": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Filling, exploiting and reusing graveyards."
+            },
+            "Recursion": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Returning or replaying expended resources."
+            },
+            "Resilience / Protection": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Protection and recovery; not immunity to wipes."
+            },
+            "Spot Interaction": {
+              "score": 1.0,
+              "range": [
+                1.0,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Negate",
+                  "quantity": 1,
+                  "tags": [
+                    "counterspell"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "counterspell": [
+                      "oracle:Negate:counterspell"
+                    ]
+                  }
+                },
+                {
+                  "card": "Swords to Plowshares",
+                  "quantity": 1,
+                  "tags": [
+                    "removal"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "removal": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 10,
+              "description": "Targeted interaction; applicability is assessed separately."
+            },
+            "Board Wipes": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Mass interaction, including conditional or asymmetric effects."
+            },
+            "Commander Dependency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 6,
+              "description": "Observed commander support; dependency cannot be proven from card text alone."
+            },
+            "Evasion": {
+              "score": 0.4,
+              "range": [
+                0.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "evasion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "evasion": [
+                      "oracle:Test Commander:evasion"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Ability to bypass or overwhelm blockers."
+            },
+            "Combat Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Growth of combat damage rather than current board power."
+            },
+            "Burst Potential": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Observed potential for sudden high-impact turns."
+            },
+            "Combo / Engine Density": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Engine ingredients; not a count of proven combos."
+            },
+            "Single-Card Bombs": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Curated haymakers, independently of synergy."
+            },
+            "Artifact Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 18,
+              "description": "Artifact presence and explicit payoffs; density is only a proxy for reliance."
+            },
+            "Enchantment Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 12,
+              "description": "Enchantment presence and payoffs."
+            },
+            "Creature Reliance": {
+              "score": 0.2,
+              "range": [
+                0.2,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 32,
+              "description": "Observed creature density."
+            },
+            "Graveyard Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Effects that need graveyard resources."
+            },
+            "Life Gain / Life Resource Abuse": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Life used as a resource, output or payoff."
+            },
+            "Sacrifice Value": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Sacrifice outlets and associated payoffs."
+            },
+            "Token Production": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Token sources; does not predict exact board size."
+            },
+            "Counter / Proliferate Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Counter sources and multiplication."
+            },
+            "Table Inevitability": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Repeatable value and reach if left unchecked."
+            },
+            "Speed": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed acceleration and cheap engines; not a simulated winning turn."
+            },
+            "Stank Score": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Sudden memorable swings; deliberately distinct from overall power."
+            }
+          },
+          "warnings": [
+            "3 cards supplied including commander(s); this is a partial list."
+          ],
+          "unmatched": [],
+          "overview": {
+            "plan": [
+              "Spot Interaction"
+            ],
+            "lands": 0,
+            "average_mana_value": 2.33,
+            "finishers": [],
+            "weaknesses": [
+              "Little observed spot interaction; missing cards may change this.",
+              "Little observed card advantage; missing cards may change this.",
+              "Little observed resilience / protection; missing cards may change this."
+            ],
+            "commander_role": "evasion, flying",
+            "interaction": [
+              "Negate",
+              "Swords to Plowshares"
+            ]
+          }
+        },
+        "matchup": {
+          "rows": [
+            {
+              "axis": "Enchantment engines",
+              "threat": 0.6,
+              "coverage": 0.6,
+              "status": "Adequate",
+              "weight": 0.36,
+              "profile_multiplier": 1,
+              "answers": [
+                {
+                  "card": "Negate",
+                  "weight": 0.46,
+                  "base": 0.4,
+                  "speed_factor": 1.15,
+                  "repeat_factor": 1.0,
+                  "resilience_factor": 1.0,
+                  "breadth_factor": 1.0,
+                  "reusable": false,
+                  "narrow": false,
+                  "reason": "Can counter eligible threats before resolution, not remove a resolved engine.",
+                  "limitations": "Activation costs, board access, MDFC face choice and timing require manual review."
+                }
+              ],
+              "threat_cards": [
+                "Mystic Engine"
+              ],
+              "coverage_range": [
+                0.6,
+                5
+              ],
+              "threat_range": [
+                0.6,
+                5
+              ]
+            }
+          ],
+          "readiness": 51,
+          "readiness_range": [
+            0,
+            100
+          ],
+          "pressure": 0.0,
+          "coverage_ratio": 0.6,
+          "overreaction": {
+            "risk": "Medium",
+            "advice": []
+          },
+          "partial": true,
+          "note": "Observed coverage index, not win probability. Partial lists cannot establish overall readiness; 0\u2013100 bounds acknowledge unknown threats and answers.",
+          "formula": "100 \u00d7 (0.85 \u00d7 \u03a3(T\u00b2 \u00d7 profile \u00d7 min(1,C/max(T,1))) / \u03a3(T\u00b2 \u00d7 profile) + 0.15 \u00d7 pressure)",
+          "version": "1.0"
+        },
+        "recommendations": {
+          "changes": [],
+          "message": "No changes justified by observed coverage. Unknown cards may change this conclusion.",
+          "withheld": []
+        }
+      }
+    },
+    {
+      "name": "Verified combo and faces",
+      "opponent": {
+        "name": "Verified combo and faces",
+        "text": "Heliod, Sun-Crowned\nWalking Ballista\nFront // Back",
+        "commander": "Test Commander"
+      },
+      "mine": {
+        "name": "My Verified combo and faces",
+        "text": "Beast Within\nCounterspell",
+        "commander": "Test Commander"
+      },
+      "environment": "B3",
+      "profile": "",
+      "expected": {
+        "opponent": {
+          "commander": [
+            "Test Commander"
+          ],
+          "identity": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+          ],
+          "identity_known": true,
+          "supplied": 4,
+          "resolved": 4,
+          "missing": 96,
+          "confidence": {
+            "level": "Low",
+            "index": 4,
+            "completeness": 0.04,
+            "note": "Ranges are conservative heuristic bounds, not statistical confidence intervals. Missing cards are unknown."
+          },
+          "scores": {
+            "Acceleration": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Nonland mana acceleration and cost reduction."
+            },
+            "Card Advantage": {
+              "score": 0.5,
+              "range": [
+                0.5,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Front // Back",
+                  "quantity": 1,
+                  "tags": [
+                    "draw"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "draw": [
+                      "oracle:Front:draw"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 10,
+              "description": "Observed draw and temporary card access."
+            },
+            "Tutors / Consistency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Searching for nonland cards; not an overall consistency estimate."
+            },
+            "Graveyard Power": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Filling, exploiting and reusing graveyards."
+            },
+            "Recursion": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Returning or replaying expended resources."
+            },
+            "Resilience / Protection": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Protection and recovery; not immunity to wipes."
+            },
+            "Spot Interaction": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Targeted interaction; applicability is assessed separately."
+            },
+            "Board Wipes": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Mass interaction, including conditional or asymmetric effects."
+            },
+            "Commander Dependency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 6,
+              "description": "Observed commander support; dependency cannot be proven from card text alone."
+            },
+            "Evasion": {
+              "score": 0.8,
+              "range": [
+                0.8,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Front // Back",
+                  "quantity": 1,
+                  "tags": [
+                    "evasion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "evasion": [
+                      "oracle:Back:evasion"
+                    ]
+                  }
+                },
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "evasion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "evasion": [
+                      "oracle:Test Commander:evasion"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Ability to bypass or overwhelm blockers."
+            },
+            "Combat Scaling": {
+              "score": 1.0,
+              "range": [
+                1.0,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Heliod, Sun-Crowned",
+                  "quantity": 1,
+                  "tags": [
+                    "counters"
+                  ],
+                  "weight": 0.8,
+                  "rules": {
+                    "counters": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Walking Ballista",
+                  "quantity": 1,
+                  "tags": [
+                    "counters"
+                  ],
+                  "weight": 0.8,
+                  "rules": {
+                    "counters": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 8,
+              "description": "Growth of combat damage rather than current board power."
+            },
+            "Burst Potential": {
+              "score": 1.6,
+              "range": [
+                1.6,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Heliod, Sun-Crowned",
+                  "quantity": 1,
+                  "tags": [
+                    "stank"
+                  ],
+                  "weight": 0.8,
+                  "rules": {
+                    "stank": [
+                      "verified pattern:Heliod + Walking Ballista"
+                    ]
+                  }
+                },
+                {
+                  "card": "Walking Ballista",
+                  "quantity": 1,
+                  "tags": [
+                    "stank"
+                  ],
+                  "weight": 0.8,
+                  "rules": {
+                    "stank": [
+                      "verified pattern:Heliod + Walking Ballista"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 5,
+              "description": "Observed potential for sudden high-impact turns."
+            },
+            "Combo / Engine Density": {
+              "score": 1.4,
+              "range": [
+                1.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Heliod, Sun-Crowned",
+                  "quantity": 1,
+                  "tags": [
+                    "combo piece"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "combo piece": [
+                      "manual:tag_overrides.json",
+                      "verified pattern:Heliod + Walking Ballista"
+                    ]
+                  }
+                },
+                {
+                  "card": "Walking Ballista",
+                  "quantity": 1,
+                  "tags": [
+                    "combo piece"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "combo piece": [
+                      "manual:tag_overrides.json",
+                      "verified pattern:Heliod + Walking Ballista"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 7,
+              "description": "Engine ingredients; not a count of proven combos."
+            },
+            "Single-Card Bombs": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Curated haymakers, independently of synergy."
+            },
+            "Artifact Reliance": {
+              "score": 0.3,
+              "range": [
+                0.3,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Walking Ballista",
+                  "quantity": 1,
+                  "tags": [
+                    "artifact body"
+                  ],
+                  "weight": 0.5,
+                  "rules": {
+                    "artifact body": [
+                      "type:Artifact"
+                    ]
+                  }
+                },
+                {
+                  "card": "Front // Back",
+                  "quantity": 1,
+                  "tags": [
+                    "artifact body"
+                  ],
+                  "weight": 0.5,
+                  "rules": {
+                    "artifact body": [
+                      "type:Artifact"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 18,
+              "description": "Artifact presence and explicit payoffs; density is only a proxy for reliance."
+            },
+            "Enchantment Reliance": {
+              "score": 0.2,
+              "range": [
+                0.2,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Heliod, Sun-Crowned",
+                  "quantity": 1,
+                  "tags": [
+                    "enchantment body"
+                  ],
+                  "weight": 0.6,
+                  "rules": {
+                    "enchantment body": [
+                      "type:Enchantment"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Enchantment presence and payoffs."
+            },
+            "Creature Reliance": {
+              "score": 0.5,
+              "range": [
+                0.5,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Heliod, Sun-Crowned",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                },
+                {
+                  "card": "Walking Ballista",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                },
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 32,
+              "description": "Observed creature density."
+            },
+            "Graveyard Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Effects that need graveyard resources."
+            },
+            "Life Gain / Life Resource Abuse": {
+              "score": 0.4,
+              "range": [
+                0.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Heliod, Sun-Crowned",
+                  "quantity": 1,
+                  "tags": [
+                    "life gain"
+                  ],
+                  "weight": 0.7,
+                  "rules": {
+                    "life gain": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 8,
+              "description": "Life used as a resource, output or payoff."
+            },
+            "Sacrifice Value": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Sacrifice outlets and associated payoffs."
+            },
+            "Token Production": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Token sources; does not predict exact board size."
+            },
+            "Counter / Proliferate Scaling": {
+              "score": 1.1,
+              "range": [
+                1.1,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Heliod, Sun-Crowned",
+                  "quantity": 1,
+                  "tags": [
+                    "counters"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "counters": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Walking Ballista",
+                  "quantity": 1,
+                  "tags": [
+                    "counters"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "counters": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 9,
+              "description": "Counter sources and multiplication."
+            },
+            "Table Inevitability": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Repeatable value and reach if left unchecked."
+            },
+            "Speed": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed acceleration and cheap engines; not a simulated winning turn."
+            },
+            "Stank Score": {
+              "score": 3.0,
+              "range": [
+                3.0,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Heliod, Sun-Crowned",
+                  "quantity": 1,
+                  "tags": [
+                    "stank"
+                  ],
+                  "weight": 1.5,
+                  "rules": {
+                    "stank": [
+                      "verified pattern:Heliod + Walking Ballista"
+                    ]
+                  }
+                },
+                {
+                  "card": "Walking Ballista",
+                  "quantity": 1,
+                  "tags": [
+                    "stank"
+                  ],
+                  "weight": 1.5,
+                  "rules": {
+                    "stank": [
+                      "verified pattern:Heliod + Walking Ballista"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 5,
+              "description": "Sudden memorable swings; deliberately distinct from overall power."
+            }
+          },
+          "warnings": [
+            "4 cards supplied including commander(s); this is a partial list."
+          ],
+          "unmatched": [],
+          "overview": {
+            "plan": [
+              "Stank Score",
+              "Burst Potential",
+              "Combo / Engine Density"
+            ],
+            "lands": 0,
+            "average_mana_value": 2.25,
+            "finishers": [],
+            "weaknesses": [
+              "Little observed spot interaction; missing cards may change this.",
+              "Little observed card advantage; missing cards may change this.",
+              "Little observed resilience / protection; missing cards may change this."
+            ],
+            "commander_role": "evasion, flying",
+            "interaction": []
+          }
+        },
+        "mine": {
+          "commander": [
+            "Test Commander"
+          ],
+          "identity": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+          ],
+          "identity_known": true,
+          "supplied": 3,
+          "resolved": 3,
+          "missing": 97,
+          "confidence": {
+            "level": "Low",
+            "index": 3,
+            "completeness": 0.03,
+            "note": "Ranges are conservative heuristic bounds, not statistical confidence intervals. Missing cards are unknown."
+          },
+          "scores": {
+            "Acceleration": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Nonland mana acceleration and cost reduction."
+            },
+            "Card Advantage": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed draw and temporary card access."
+            },
+            "Tutors / Consistency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Searching for nonland cards; not an overall consistency estimate."
+            },
+            "Graveyard Power": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Filling, exploiting and reusing graveyards."
+            },
+            "Recursion": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Returning or replaying expended resources."
+            },
+            "Resilience / Protection": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Protection and recovery; not immunity to wipes."
+            },
+            "Spot Interaction": {
+              "score": 1.0,
+              "range": [
+                1.0,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Beast Within",
+                  "quantity": 1,
+                  "tags": [
+                    "removal"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "removal": [
+                      "manual:tag_overrides.json"
+                    ]
+                  }
+                },
+                {
+                  "card": "Counterspell",
+                  "quantity": 1,
+                  "tags": [
+                    "counterspell"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "counterspell": [
+                      "oracle:Counterspell:counterspell"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 10,
+              "description": "Targeted interaction; applicability is assessed separately."
+            },
+            "Board Wipes": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Mass interaction, including conditional or asymmetric effects."
+            },
+            "Commander Dependency": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 6,
+              "description": "Observed commander support; dependency cannot be proven from card text alone."
+            },
+            "Evasion": {
+              "score": 0.4,
+              "range": [
+                0.4,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "evasion"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "evasion": [
+                      "oracle:Test Commander:evasion"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 12,
+              "description": "Ability to bypass or overwhelm blockers."
+            },
+            "Combat Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Growth of combat damage rather than current board power."
+            },
+            "Burst Potential": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Observed potential for sudden high-impact turns."
+            },
+            "Combo / Engine Density": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Engine ingredients; not a count of proven combos."
+            },
+            "Single-Card Bombs": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 4,
+              "description": "Curated haymakers, independently of synergy."
+            },
+            "Artifact Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 18,
+              "description": "Artifact presence and explicit payoffs; density is only a proxy for reliance."
+            },
+            "Enchantment Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 12,
+              "description": "Enchantment presence and payoffs."
+            },
+            "Creature Reliance": {
+              "score": 0.2,
+              "range": [
+                0.2,
+                5
+              ],
+              "contributors": [
+                {
+                  "card": "Test Commander",
+                  "quantity": 1,
+                  "tags": [
+                    "creature body"
+                  ],
+                  "weight": 1,
+                  "rules": {
+                    "creature body": [
+                      "type:Creature"
+                    ]
+                  }
+                }
+              ],
+              "threshold": 32,
+              "description": "Observed creature density."
+            },
+            "Graveyard Reliance": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Effects that need graveyard resources."
+            },
+            "Life Gain / Life Resource Abuse": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 8,
+              "description": "Life used as a resource, output or payoff."
+            },
+            "Sacrifice Value": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 7,
+              "description": "Sacrifice outlets and associated payoffs."
+            },
+            "Token Production": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Token sources; does not predict exact board size."
+            },
+            "Counter / Proliferate Scaling": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Counter sources and multiplication."
+            },
+            "Table Inevitability": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 9,
+              "description": "Repeatable value and reach if left unchecked."
+            },
+            "Speed": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 10,
+              "description": "Observed acceleration and cheap engines; not a simulated winning turn."
+            },
+            "Stank Score": {
+              "score": 0.0,
+              "range": [
+                0.0,
+                5
+              ],
+              "contributors": [],
+              "threshold": 5,
+              "description": "Sudden memorable swings; deliberately distinct from overall power."
+            }
+          },
+          "warnings": [
+            "3 cards supplied including commander(s); this is a partial list."
+          ],
+          "unmatched": [],
+          "overview": {
+            "plan": [
+              "Spot Interaction"
+            ],
+            "lands": 0,
+            "average_mana_value": 3.0,
+            "finishers": [],
+            "weaknesses": [
+              "Little observed spot interaction; missing cards may change this.",
+              "Little observed card advantage; missing cards may change this.",
+              "Little observed resilience / protection; missing cards may change this."
+            ],
+            "commander_role": "evasion, flying",
+            "interaction": [
+              "Beast Within",
+              "Counterspell"
+            ]
+          }
+        },
+        "matchup": {
+          "rows": [
+            {
+              "axis": "Creature pressure",
+              "threat": 1.0,
+              "coverage": 2.0,
+              "status": "Strong",
+              "weight": 1.0,
+              "profile_multiplier": 1,
+              "answers": [
+                {
+                  "card": "Beast Within",
+                  "weight": 1.1,
+                  "base": 1.0,
+                  "speed_factor": 1.0,
+                  "repeat_factor": 1.0,
+                  "resilience_factor": 1.0,
+                  "breadth_factor": 1.1,
+                  "reusable": false,
+                  "narrow": false,
+                  "reason": "Can interact with a resolved creature; restrictions still apply.",
+                  "limitations": "Activation costs, board access, MDFC face choice and timing require manual review."
+                },
+                {
+                  "card": "Counterspell",
+                  "weight": 0.46,
+                  "base": 0.4,
+                  "speed_factor": 1.15,
+                  "repeat_factor": 1.0,
+                  "resilience_factor": 1.0,
+                  "breadth_factor": 1.0,
+                  "reusable": false,
+                  "narrow": false,
+                  "reason": "Can counter eligible threats before resolution, not remove a resolved engine.",
+                  "limitations": "Activation costs, board access, MDFC face choice and timing require manual review."
+                }
+              ],
+              "threat_cards": [
+                "Heliod, Sun-Crowned",
+                "Test Commander",
+                "Walking Ballista"
+              ],
+              "coverage_range": [
+                2.0,
+                5
+              ],
+              "threat_range": [
+                1.0,
+                5
+              ]
+            },
+            {
+              "axis": "Evasive commander damage",
+              "threat": 0.8,
+              "coverage": 2.0,
+              "status": "Strong",
+              "weight": 0.64,
+              "profile_multiplier": 1,
+              "answers": [
+                {
+                  "card": "Beast Within",
+                  "weight": 1.1,
+                  "base": 1.0,
+                  "speed_factor": 1.0,
+                  "repeat_factor": 1.0,
+                  "resilience_factor": 1.0,
+                  "breadth_factor": 1.1,
+                  "reusable": false,
+                  "narrow": false,
+                  "reason": "Can interact with a resolved creature; restrictions still apply.",
+                  "limitations": "Activation costs, board access, MDFC face choice and timing require manual review."
+                },
+                {
+                  "card": "Counterspell",
+                  "weight": 0.46,
+                  "base": 0.4,
+                  "speed_factor": 1.15,
+                  "repeat_factor": 1.0,
+                  "resilience_factor": 1.0,
+                  "breadth_factor": 1.0,
+                  "reusable": false,
+                  "narrow": false,
+                  "reason": "Can counter eligible threats before resolution, not remove a resolved engine.",
+                  "limitations": "Activation costs, board access, MDFC face choice and timing require manual review."
+                }
+              ],
+              "threat_cards": [
+                "Front // Back",
+                "Test Commander"
+              ],
+              "coverage_range": [
+                2.0,
+                5
+              ],
+              "threat_range": [
+                0.8,
+                5
+              ]
+            },
+            {
+              "axis": "Explosive engines",
+              "threat": 1.4,
+              "coverage": 2.0,
+              "status": "Strong",
+              "weight": 1.96,
+              "profile_multiplier": 1,
+              "answers": [
+                {
+                  "card": "Beast Within",
+                  "weight": 0.66,
+                  "base": 0.6,
+                  "speed_factor": 1.0,
+                  "repeat_factor": 1.0,
+                  "resilience_factor": 1.0,
+                  "breadth_factor": 1.1,
+                  "reusable": false,
+                  "narrow": false,
+                  "reason": "Can disrupt some permanent-based engines; nonpermanent and triggered effects may evade it.",
+                  "limitations": "Activation costs, board access, MDFC face choice and timing require manual review."
+                },
+                {
+                  "card": "Counterspell",
+                  "weight": 0.977,
+                  "base": 0.85,
+                  "speed_factor": 1.15,
+                  "repeat_factor": 1.0,
+                  "resilience_factor": 1.0,
+                  "breadth_factor": 1.0,
+                  "reusable": false,
+                  "narrow": false,
+                  "reason": "Can counter an eligible spell before resolution; cannot stop every activated/triggered ability.",
+                  "limitations": "Activation costs, board access, MDFC face choice and timing require manual review."
+                }
+              ],
+              "threat_cards": [
+                "Heliod, Sun-Crowned",
+                "Walking Ballista"
+              ],
+              "coverage_range": [
+                2.0,
+                5
+              ],
+              "threat_range": [
+                1.4,
+                5
+              ]
+            },
+            {
+              "axis": "Single-card swings",
+              "threat": 1.6,
+              "coverage": 2.0,
+              "status": "Strong",
+              "weight": 2.56,
+              "profile_multiplier": 1,
+              "answers": [
+                {
+                  "card": "Beast Within",
+                  "weight": 0.66,
+                  "base": 0.6,
+                  "speed_factor": 1.0,
+                  "repeat_factor": 1.0,
+                  "resilience_factor": 1.0,
+                  "breadth_factor": 1.1,
+                  "reusable": false,
+                  "narrow": false,
+                  "reason": "Can disrupt some permanent-based engines; nonpermanent and triggered effects may evade it.",
+                  "limitations": "Activation costs, board access, MDFC face choice and timing require manual review."
+                },
+                {
+                  "card": "Counterspell",
+                  "weight": 0.977,
+                  "base": 0.85,
+                  "speed_factor": 1.15,
+                  "repeat_factor": 1.0,
+                  "resilience_factor": 1.0,
+                  "breadth_factor": 1.0,
+                  "reusable": false,
+                  "narrow": false,
+                  "reason": "Can counter an eligible spell before resolution; cannot stop every activated/triggered ability.",
+                  "limitations": "Activation costs, board access, MDFC face choice and timing require manual review."
+                }
+              ],
+              "threat_cards": [
+                "Heliod, Sun-Crowned",
+                "Walking Ballista"
+              ],
+              "coverage_range": [
+                2.0,
+                5
+              ],
+              "threat_range": [
+                1.6,
+                5
+              ]
+            },
+            {
+              "axis": "Counter scaling",
+              "threat": 1.1,
+              "coverage": 2.0,
+              "status": "Strong",
+              "weight": 1.21,
+              "profile_multiplier": 1,
+              "answers": [
+                {
+                  "card": "Beast Within",
+                  "weight": 1.1,
+                  "base": 1.0,
+                  "speed_factor": 1.0,
+                  "repeat_factor": 1.0,
+                  "resilience_factor": 1.0,
+                  "breadth_factor": 1.1,
+                  "reusable": false,
+                  "narrow": false,
+                  "reason": "Can interact with a resolved creature; restrictions still apply.",
+                  "limitations": "Activation costs, board access, MDFC face choice and timing require manual review."
+                },
+                {
+                  "card": "Counterspell",
+                  "weight": 0.46,
+                  "base": 0.4,
+                  "speed_factor": 1.15,
+                  "repeat_factor": 1.0,
+                  "resilience_factor": 1.0,
+                  "breadth_factor": 1.0,
+                  "reusable": false,
+                  "narrow": false,
+                  "reason": "Can counter eligible threats before resolution, not remove a resolved engine.",
+                  "limitations": "Activation costs, board access, MDFC face choice and timing require manual review."
+                }
+              ],
+              "threat_cards": [
+                "Heliod, Sun-Crowned",
+                "Walking Ballista"
+              ],
+              "coverage_range": [
+                2.0,
+                5
+              ],
+              "threat_range": [
+                1.1,
+                5
+              ]
+            }
+          ],
+          "readiness": 85,
+          "readiness_range": [
+            0,
+            100
+          ],
+          "pressure": 0.0,
+          "coverage_ratio": 1.0,
+          "overreaction": {
+            "risk": "Medium",
+            "advice": []
+          },
+          "partial": true,
+          "note": "Observed coverage index, not win probability. Partial lists cannot establish overall readiness; 0\u2013100 bounds acknowledge unknown threats and answers.",
+          "formula": "100 \u00d7 (0.85 \u00d7 \u03a3(T\u00b2 \u00d7 profile \u00d7 min(1,C/max(T,1))) / \u03a3(T\u00b2 \u00d7 profile) + 0.15 \u00d7 pressure)",
+          "version": "1.0"
+        },
+        "recommendations": {
+          "changes": [],
+          "message": "No changes justified by observed coverage. Unknown cards may change this conclusion.",
+          "withheld": []
+        }
+      }
+    }
+  ]
+}

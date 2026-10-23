@@ -51,3 +51,9 @@ Unit tests cover parsing, normalisation with mocked Scryfall, tagging, incomplet
 
 ## Boundaries and extension points
 No LLM requirement, automatic recommendation search, Moxfield/Archidekt import, full Spellbook integration, goldfish simulation or deck ownership tracking in V1. Define provider and pattern interfaces for future additions. Deterministic heuristics cannot prove absence of threats, exhaustive combo recognition, game outcomes or complete rules correctness. Price data is optional and currency-labelled; unavailable prices are not treated as free.
+
+## Approved architecture amendment — 23 October 2026
+
+ADR 0003 supersedes the original FastAPI/SQLite production architecture. The deployed V1 is a public GitHub Pages React/TypeScript application with deterministic analysis in a Web Worker, IndexedDB device-local storage and direct Scryfall requests. No hosted backend or personal computer/network exposure. All report modes, scoring and deck-library behaviours above remain; the HTTP API is replaced with local typed services.
+
+Libraries are independent per device. Version 1 JSON library exports include saved deck metadata/lists/notes; report JSON is not a library backup. Imports validate and preview before explicitly replacing the local library atomically. Card cache is rebuildable and is not included. Persistence status and changes-since-export are shown; failed persistence or quota errors must never be presented as successful saves. Public assets contain no personal SQLite data, backups, local notes or synced source documents. Publication uses GitHub Actions; live iPhone/iPad Safari tests require actual device access and must not be claimed based solely on desktop testing.
