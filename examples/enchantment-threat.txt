@@ -1,0 +1,16 @@
+# Synthetic partial list: enchantment engines and value.
+COMMANDER
+1 Sythis, Harvest's Hand
+
+DECK
+1 Enchantress's Presence
+1 Eidolon of Blossoms
+1 Mesa Enchantress
+1 Sterling Grove
+1 Greater Auramancy
+1 Sigil of the Empty Throne
+1 Destiny Spinner
+1 Sanctum Weaver
+1 Mirari's Wake
+1 Sphere of Safety
+1 Sol Ring

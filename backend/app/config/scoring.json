@@ -1,0 +1,226 @@
+{
+  "version": "1.0",
+  "categories": {
+    "Acceleration": {
+      "threshold": 10,
+      "tags": {
+        "ramp": 1,
+        "fast mana": 1.5,
+        "cost reduction": 1
+      },
+      "description": "Nonland mana acceleration and cost reduction."
+    },
+    "Card Advantage": {
+      "threshold": 10,
+      "tags": {
+        "draw": 1,
+        "impulse draw": 0.8
+      },
+      "description": "Observed draw and temporary card access."
+    },
+    "Tutors / Consistency": {
+      "threshold": 5,
+      "tags": {
+        "tutor": 1
+      },
+      "description": "Searching for nonland cards; not an overall consistency estimate."
+    },
+    "Graveyard Power": {
+      "threshold": 9,
+      "tags": {
+        "self mill": 0.6,
+        "reanimation": 1.4,
+        "graveyard synergy": 1,
+        "opponent resources": 1
+      },
+      "description": "Filling, exploiting and reusing graveyards."
+    },
+    "Recursion": {
+      "threshold": 7,
+      "tags": {
+        "recursion": 1,
+        "reanimation": 1.3
+      },
+      "description": "Returning or replaying expended resources."
+    },
+    "Resilience / Protection": {
+      "threshold": 7,
+      "tags": {
+        "protection": 1.3,
+        "indestructible": 0.7,
+        "hexproof": 0.7,
+        "recursion": 0.5
+      },
+      "description": "Protection and recovery; not immunity to wipes."
+    },
+    "Spot Interaction": {
+      "threshold": 10,
+      "tags": {
+        "removal": 1,
+        "counterspell": 1
+      },
+      "description": "Targeted interaction; applicability is assessed separately."
+    },
+    "Board Wipes": {
+      "threshold": 4,
+      "tags": {
+        "board wipe": 1
+      },
+      "description": "Mass interaction, including conditional or asymmetric effects."
+    },
+    "Commander Dependency": {
+      "threshold": 6,
+      "tags": {
+        "commander damage enabler": 1,
+        "commander linked": 1.5
+      },
+      "description": "Observed commander support; dependency cannot be proven from card text alone."
+    },
+    "Evasion": {
+      "threshold": 12,
+      "tags": {
+        "evasion": 1,
+        "unblockable": 1.5
+      },
+      "description": "Ability to bypass or overwhelm blockers."
+    },
+    "Combat Scaling": {
+      "threshold": 8,
+      "tags": {
+        "anthem": 1.4,
+        "counters": 0.8,
+        "double strike": 1.3,
+        "commander damage enabler": 1
+      },
+      "description": "Growth of combat damage rather than current board power."
+    },
+    "Burst Potential": {
+      "threshold": 5,
+      "tags": {
+        "extra combat": 1.5,
+        "damage amplifier": 1.5,
+        "finisher": 1,
+        "stank": 0.8
+      },
+      "description": "Observed potential for sudden high-impact turns."
+    },
+    "Combo / Engine Density": {
+      "threshold": 7,
+      "tags": {
+        "engine": 1,
+        "combo piece": 1,
+        "sacrifice outlet": 0.7,
+        "death payoff": 0.7,
+        "cast payoff": 0.6
+      },
+      "description": "Engine ingredients; not a count of proven combos."
+    },
+    "Single-Card Bombs": {
+      "threshold": 4,
+      "tags": {
+        "bomb": 1
+      },
+      "description": "Curated haymakers, independently of synergy."
+    },
+    "Artifact Reliance": {
+      "threshold": 18,
+      "tags": {
+        "artifact body": 0.5,
+        "artifact synergy": 1.5
+      },
+      "description": "Artifact presence and explicit payoffs; density is only a proxy for reliance."
+    },
+    "Enchantment Reliance": {
+      "threshold": 12,
+      "tags": {
+        "enchantment body": 0.6,
+        "enchantment synergy": 1.5
+      },
+      "description": "Enchantment presence and payoffs."
+    },
+    "Creature Reliance": {
+      "threshold": 32,
+      "tags": {
+        "creature body": 1
+      },
+      "description": "Observed creature density."
+    },
+    "Graveyard Reliance": {
+      "threshold": 9,
+      "tags": {
+        "reanimation": 1,
+        "recursion": 0.9,
+        "graveyard synergy": 1.2
+      },
+      "description": "Effects that need graveyard resources."
+    },
+    "Life Gain / Life Resource Abuse": {
+      "threshold": 8,
+      "tags": {
+        "life gain": 0.7,
+        "life drain": 1,
+        "life resource": 1
+      },
+      "description": "Life used as a resource, output or payoff."
+    },
+    "Sacrifice Value": {
+      "threshold": 7,
+      "tags": {
+        "sacrifice outlet": 1,
+        "death payoff": 1
+      },
+      "description": "Sacrifice outlets and associated payoffs."
+    },
+    "Token Production": {
+      "threshold": 9,
+      "tags": {
+        "token generation": 1
+      },
+      "description": "Token sources; does not predict exact board size."
+    },
+    "Counter / Proliferate Scaling": {
+      "threshold": 9,
+      "tags": {
+        "counters": 1,
+        "proliferate": 1.3
+      },
+      "description": "Counter sources and multiplication."
+    },
+    "Table Inevitability": {
+      "threshold": 9,
+      "tags": {
+        "engine": 1,
+        "recursion": 0.8,
+        "life drain": 0.6,
+        "cast payoff": 0.7
+      },
+      "description": "Repeatable value and reach if left unchecked."
+    },
+    "Speed": {
+      "threshold": 10,
+      "tags": {
+        "fast mana": 1.5,
+        "ramp": 0.7,
+        "cost reduction": 0.8,
+        "cheap engine": 1
+      },
+      "description": "Observed acceleration and cheap engines; not a simulated winning turn."
+    },
+    "Stank Score": {
+      "threshold": 5,
+      "tags": {
+        "stank": 1.5,
+        "extra combat": 1.2,
+        "damage amplifier": 1.2,
+        "opponent resources": 1
+      },
+      "description": "Sudden memorable swings; deliberately distinct from overall power."
+    }
+  },
+  "matchup": {
+    "coverage_weight": 0.85,
+    "pressure_weight": 0.15,
+    "answer_threshold": 4.0,
+    "profile_max": 1.15
+  }
+}

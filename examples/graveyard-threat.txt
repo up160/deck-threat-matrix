@@ -1,0 +1,13 @@
+# Synthetic partial list for testing graveyard and sacrifice roles.
+COMMANDER
+1 Meren of Clan Nel Toth
+
+DECK
+1 Sol Ring
+1 Reanimate
+1 Animate Dead
+1 Living Death
+1 Eternal Witness
+1 Stitcher's Supplier
+1 Blood Artist
+1 Viscera Seer

@@ -1,0 +1,39 @@
+{
+  "opponents": {
+    "Simon": {
+      "description": "Known tendencies, applied only to threats actually evidenced by this list.",
+      "weights": {
+        "Graveyard recursion": 1.15,
+        "Enchantment engines": 1.08,
+        "Evasive commander damage": 1.15,
+        "Explosive engines": 1.15,
+        "Single-card swings": 1.12,
+        "Tutors / consistency": 1.1
+      },
+      "tendencies": [
+        "tutors",
+        "graveyard recursion",
+        "opponents' resources",
+        "evasive commander damage",
+        "sudden combat scaling",
+        "difficult-to-block threats",
+        "explosive engines",
+        "strong bombs"
+      ]
+    }
+  },
+  "environments": {
+    "B2": {
+      "name": "High-end B2",
+      "description": "Thematic explosive midrange, meaningful interaction, resilience and stank. Minimal tutors; preserve identity; avoid staple convergence.",
+      "desired_coverage_ratio": 0.75,
+      "targeted_hate_penalty": 0.6
+    },
+    "B3": {
+      "name": "B3",
+      "description": "Stronger consistency, efficient interaction and compact engines allowed; preserve identity where possible.",
+      "desired_coverage_ratio": 1.0,
+      "targeted_hate_penalty": 0.8
+    }
+  }
+}

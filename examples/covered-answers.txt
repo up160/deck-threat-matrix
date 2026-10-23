@@ -1,0 +1,13 @@
+# Synthetic partial list: graveyard coverage should already be strong.
+COMMANDER
+1 Kenrith, the Returned King
+
+DECK
+1 Soul-Guide Lantern
+1 Scavenger Grounds
+1 Bojuka Bog
+1 Scavenging Ooze
+1 Beast Within
+1 Generous Gift
+1 Counterspell
+1 Sol Ring

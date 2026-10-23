@@ -1,0 +1,12 @@
+[
+ {"name":"Sacrifice value","kind":"engine","requires":["sacrifice outlet","death payoff"],"explanation":"Sacrificing creatures can repeatedly convert bodies into death triggers; fodder and costs still matter."},
+ {"name":"Graveyard recycling","kind":"engine","requires":["self mill","recursion"],"explanation":"Filling the graveyard supplies cards for recursion; this does not prove an infinite loop."},
+ {"name":"Reanimation targets","kind":"synergy","requires":["reanimation","expensive creature"],"explanation":"Reanimation can bypass the mana costs of large creatures."},
+ {"name":"Commander combat pressure","kind":"synergy","requires":["commander damage enabler","evasion"],"explanation":"Scaling and evasion can threaten commander damage when applied to the commander."},
+ {"name":"Token overrun","kind":"synergy","requires":["token generation","anthem"],"explanation":"Wide boards turn collective buffs into large combat swings."},
+ {"name":"Counter multiplication","kind":"synergy","requires":["counters","proliferate"],"explanation":"Proliferate builds on existing counters; counter types and targets must align."},
+ {"name":"Graveyard payoff","kind":"synergy","requires":["self mill","graveyard synergy"],"explanation":"Graveyard filling supports effects that reference graveyard contents."},
+ {"name":"Artifact value","kind":"engine","requires":["artifact body","artifact synergy"],"minimum_first":8,"explanation":"Artifact density supplies material for artifact payoffs; exact triggers govern output."},
+ {"name":"Life exchange","kind":"synergy","requires":["life gain","life drain"],"explanation":"Life gain and drain coexist; inspect triggers before assuming they form a loop."},
+ {"name":"ETB reuse","kind":"engine","requires":["ETB ability","blink"],"explanation":"Blink can reuse enters abilities; costs, targets and timing still apply."}
+]
