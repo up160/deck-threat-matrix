@@ -42,10 +42,7 @@ export function blast(
   const scores = report.opponent.scores,
     top = Object.keys(scores).sort((a, b) => scores[b].score - scores[a].score);
   return {
-    title:
-      report.profile === "Simon"
-        ? "SIMON’S LATEST CRIME"
-        : "THE MATCHUP, EXPOSED",
+    title: "OPPONENT THREAT REPORT",
     stank: scores["Stank Score"].score,
     speed: scores.Speed.score,
     resilience: scores["Resilience / Protection"].score,

@@ -513,7 +513,7 @@
         "commander": "Test Commander"
       },
       "environment": "B2",
-      "profile": "Simon",
+      "profile": "Opponent",
       "expected": {
         "opponent": {
           "commander": [

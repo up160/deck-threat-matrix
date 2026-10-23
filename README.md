@@ -7,7 +7,7 @@ A personal Commander matchup analyser that runs **entirely in your browser**. Gi
 ## Use on your phone or iPad
 
 1. Open the app in a normal Safari tab. You may add it to your Home Screen, but use the same browser/context consistently: separate contexts may have separate libraries.
-2. Paste or upload both decklists, choose your B2/B3 philosophy and optional Simon profile, then analyse. Full/partial lists, commander sections, evidence, report tabs and bulk comparisons are retained.
+2. Paste or upload both decklists, choose your B2/B3 philosophy and optional opponent profile, then analyse. Full/partial lists, commander sections, evidence, report tabs and bulk comparisons are retained.
 3. Save decks **on this device**. Under Library details, enable and save “Include in my library comparisons” for bulk analysis.
 4. Use **Export library** to save a JSON backup in Files/iCloud Drive. Open the app on your other device and use **Import library** to transfer it. Imports show a preview, then **replace** that device's saved library; they do not merge or automatically sync.
 5. Keep exported backups. Clearing website data can remove decks. The app displays changes since export and offers a persistent-storage request, which the browser may decline. Check that your download was actually saved.

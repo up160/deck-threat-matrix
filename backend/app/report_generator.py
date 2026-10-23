@@ -73,7 +73,7 @@ def blast(report: dict[str, Any]) -> dict[str, Any]:
     scores = opponent["scores"]
     top = sorted(scores, key=lambda name: scores[name]["score"], reverse=True)
     return {
-        "title": "SIMON’S LATEST CRIME" if report["profile"] == "Simon" else "THE MATCHUP, EXPOSED",
+        "title": "OPPONENT THREAT REPORT",
         "stank": scores["Stank Score"]["score"],
         "speed": scores["Speed"]["score"],
         "resilience": scores["Resilience / Protection"]["score"],

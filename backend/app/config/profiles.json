@@ -1,6 +1,6 @@
 {
   "opponents": {
-    "Simon": {
+    "Opponent": {
       "description": "Known tendencies, applied only to threats actually evidenced by this list.",
       "weights": {
         "Graveyard recursion": 1.15,

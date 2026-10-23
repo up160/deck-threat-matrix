@@ -17,7 +17,7 @@ If the port is occupied, stop the previous instance or run `.venv/bin/python -m 
 ## Use
 
 1. Paste or upload an opponent list on the left and your list on the right. Export noise, set codes, foil markers and quantities are tolerated. Use **COMMANDER** followed by a blank line or **DECK**, or enter the commander separately. Multiple commanders use semicolons. A commander already in the list is counted once.
-2. Select **High-end B2** or **B3** and optionally Simon. These are your philosophy profiles, not an official bracket certification.
+2. Select **High-end B2** or **B3** and optionally Opponent. These are your philosophy profiles, not an official bracket certification.
 3. Choose **Analyse Matchup**. Inspect normalised and unresolved names in the import notices. Sideboard/maybeboard entries are excluded and reported. Unknown or ambiguous names remain explicit; service errors are distinguished from unknown cards.
 4. Read **Blast It Out** or inspect the Threat Matrix, Engines, Matchup, Recommendations, Raw Tags and Forensic Report. Expand categories for card/tag/rule contributions, and matchup rows for individual answer weights.
 5. Save decks locally. Open **Library details** to set owner, bracket, notes and **Include in my library comparisons**. Save/update that flag before choosing **Analyse against all my decks**. The target environment applies to the whole comparison; saved bracket metadata does not silently filter decks.
@@ -58,7 +58,7 @@ backend/app/
     scoring.json            version, role weights and saturation thresholds
     patterns.json           extensible synergy/engine patterns
     combos.json             small verified catalogue with prerequisites
-    profiles.json           Simon and B2/B3 philosophy
+    profiles.json           Opponent and B2/B3 philosophy
     recommendations.json   candidate identity, applicability and trade-offs
 backend/tests/              synthetic fixtures and unit/API tests
 frontend/src/               React/TypeScript interface and styles
@@ -119,7 +119,7 @@ pressure = min(1, (my Speed + my Combat Scaling + my Burst Potential) / 15)
 readiness = round(100 × (0.85 × coverage ratio + 0.15 × pressure))
 ```
 
-Simon multipliers cannot exceed 1.15 and only apply to an observed axis. If no threats are evidenced, readiness is unavailable. Partial lists display **observed readiness** alongside 0–100 possible bounds: missing cards could introduce both unobserved threats and unobserved answers. A precise-looking observed index is not certainty about the unseen deck.
+Opponent multipliers cannot exceed 1.15 and only apply to an observed axis. If no threats are evidenced, readiness is unavailable. Partial lists display **observed readiness** alongside 0–100 possible bounds: missing cards could introduce both unobserved threats and unobserved answers. A precise-looking observed index is not certainty about the unseen deck.
 
 ### Confidence
 

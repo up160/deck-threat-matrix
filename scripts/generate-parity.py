@@ -38,7 +38,7 @@ async def generate():
         cards = list({c['name']: c for c in cards if c}.values())
         cases = []
         inputs = [
-            ('Graveyard covered', "Reanimate\nAnimate Dead\nEternal Witness\nStitcher's Supplier\nBlood Artist\nViscera Seer", 'Soul-Guide Lantern\nBojuka Bog\nScavenger Grounds\nScavenging Ooze', 'B2', 'Simon'),
+            ('Graveyard covered', "Reanimate\nAnimate Dead\nEternal Witness\nStitcher's Supplier\nBlood Artist\nViscera Seer", 'Soul-Guide Lantern\nBojuka Bog\nScavenger Grounds\nScavenging Ooze', 'B2', 'Opponent'),
             ('Enchantment gap', '8 Mystic Engine', 'Vanilla Giant\nForest', 'B2', ''),
             ('B3 enchantment gap', '8 Mystic Engine', 'Vanilla Giant\nForest', 'B3', ''),
             ('Complete basic list', '99 Forest', '99 Forest', 'B2', ''),
