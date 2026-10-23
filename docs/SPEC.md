@@ -11,7 +11,7 @@ A local-first Commander deck analysis app that explains observed threats, releva
 - Paste or upload text lists on opponent and personal deck panels. Separate commander field; recognise COMMANDER sections, quantities and common export noise. Report unresolved names and excluded sideboard/maybeboard entries.
 - Full and partial lists supported. Report observed scores and uncertainty ranges, with confirmed threats distinguished from unknown answer coverage. Never extrapolate missing cards as fact.
 - B2 and B3 are the user's philosophy profiles. Official Commander bracket concerns appear separately and are advisory. V1 uses cached Scryfall Game Changer metadata and conservative extra-turn/mass-land-denial candidates, with missing data reported; it does not bundle a maintained official restriction snapshot or certify brackets.
-- Optional editable Simon profile only increases weights for threats evidenced in the supplied list.
+- Optional editable Opponent profile only increases weights for threats evidenced in the supplied list.
 - Curated recommendation catalogue with editable rules. Up to five suggested changes, including zero. Exact candidate cuts have reasons and uncertainty. Partial-list recommendations are provisional; never cut the commander, basic mana infrastructure or an identified core engine simply for low tag count.
 - Small verified combo catalogue; all other detected patterns explicitly labelled synergy or engine. Distinguish combo from deterministic win and describe prerequisites and limitations.
 - Save decks with name, commander, bracket, owner, list, notes, updated date and explicit inclusion in personal bulk comparisons. Support editing and deletion.

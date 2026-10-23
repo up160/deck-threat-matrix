@@ -113,7 +113,7 @@ function DeckPanel({
           <input
             value={deck.name}
             placeholder={
-              side === "Opponent" ? "Simon’s latest crime" : "My deck"
+              side === "Opponent" ? "Opponent’s deck" : "My deck"
             }
             onChange={(e) => change("name", e.target.value)}
           />
@@ -738,7 +738,7 @@ function App() {
   const [library, setLibrary] = useState<Deck[]>([]);
   const [environment, setEnvironment] = useState<"B2" | "B3">("B2");
   const [profile, setProfile] = useState("");
-  const [profiles, setProfiles] = useState<string[]>(["Simon"]);
+  const [profiles, setProfiles] = useState<string[]>(["Opponent"]);
   const [report, setReport] = useState<Report | null>(null);
   const [bulk, setBulk] = useState<
     {

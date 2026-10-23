@@ -70,7 +70,7 @@ def test_coverage_is_relevant(client):
 def test_overreaction_sufficient_graveyard_coverage(client):
     opponent = analyse("Reanimate\nAnimate Dead\nEternal Witness\nStitcher's Supplier", client)
     mine = analyse("Soul-Guide Lantern\nBojuka Bog\nScavenger Grounds\nScavenging Ooze", client)
-    matchup = compare(opponent, mine, "Simon", load_profiles())
+    matchup = compare(opponent, mine, "Opponent", load_profiles())
     row = next(r for r in matchup["rows"] if r["axis"] == "Graveyard recursion")
     assert row["status"] == "Strong"
     assert matchup["overreaction"]["risk"] == "High"
@@ -82,7 +82,7 @@ def test_overreaction_sufficient_graveyard_coverage(client):
 def test_profile_does_not_invent_threats(client):
     opponent = analyse("Forest", client)
     mine = analyse("Sol Ring", client)
-    result = compare(opponent, mine, "Simon", load_profiles())
+    result = compare(opponent, mine, "Opponent", load_profiles())
     assert not any(r["axis"] == "Graveyard recursion" for r in result["rows"])
 
 
