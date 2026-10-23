@@ -3,6 +3,7 @@ import { createRoot } from "react-dom/client";
 import type { Deck, Report, Analysis, Row } from "./types";
 import "./style.css";
 import { api } from "./services/application";
+import { MatchupOverview } from "./MatchupOverview";
 import { LibraryTools } from "./LibraryTools";
 
 const blank = (): Deck => ({
@@ -15,7 +16,7 @@ const blank = (): Deck => ({
   include_in_comparisons: false,
 });
 const tabs = [
-  "Blast It Out",
+  "Matchup Overview",
   "Threat Matrix",
   "Engines",
   "Matchup",
@@ -33,21 +34,6 @@ function download(value: string, name: string, type: string) {
 }
 function Status({ value }: { value: string }) {
   return <span className={"badge " + value.toLowerCase()}>{value}</span>;
-}
-function Readiness({ report }: { report: Report }) {
-  return (
-    <>
-      <strong>
-        {report.matchup.readiness === null
-          ? "—"
-          : report.matchup.readiness + "%"}
-      </strong>
-      <span>observed readiness</span>
-      {report.matchup.partial && (
-        <small>Incomplete evidence · possible range 0–100</small>
-      )}
-    </>
-  );
 }
 
 function DeckPanel({
@@ -112,9 +98,7 @@ function DeckPanel({
           Deck name
           <input
             value={deck.name}
-            placeholder={
-              side === "Opponent" ? "Opponent’s deck" : "My deck"
-            }
+            placeholder={side === "Opponent" ? "Opponent’s deck" : "My deck"}
             onChange={(e) => change("name", e.target.value)}
           />
         </label>
@@ -646,91 +630,6 @@ function Forensic({ report }: { report: Report }) {
     </>
   );
 }
-function Blast({ report }: { report: Report }) {
-  return (
-    <>
-      <div className="blast-title">
-        <span className="eyebrow">PRE-GAME INTELLIGENCE</span>
-        <h2>{report.blast.title}</h2>
-        <p>
-          {report.opponent.name} <span>vs</span> {report.mine.name}
-        </p>
-      </div>
-      <div className="stats">
-        <div>
-          <strong>
-            {report.blast.stank}
-            <small>/5</small>
-          </strong>
-          <span>Stank</span>
-        </div>
-        <div>
-          <strong>
-            {report.blast.speed}
-            <small>/5</small>
-          </strong>
-          <span>Speed signals</span>
-        </div>
-        <div>
-          <strong>
-            {report.blast.resilience}
-            <small>/5</small>
-          </strong>
-          <span>Resilience</span>
-        </div>
-        <div className="ready-stat">
-          <Readiness report={report} />
-        </div>
-      </div>
-      <div className="blast-grid">
-        <section>
-          <span className="eyebrow">MAIN BULLSHIT</span>
-          <ul>
-            {report.blast.main.length ? (
-              report.blast.main.map((s) => <li key={s}>{s}</li>)
-            ) : (
-              <li>Not enough evidence yet.</li>
-            )}
-          </ul>
-          <span className="eyebrow">BIGGEST PROBLEMS</span>
-          <ol>
-            {report.blast.problems.length ? (
-              report.blast.problems.map((s) => <li key={s}>{s}</li>)
-            ) : (
-              <li>No major gap evidenced.</li>
-            )}
-          </ol>
-        </section>
-        <section>
-          <span className="eyebrow">BEST FIXES</span>
-          {report.recommendations.changes.slice(0, 3).map((c) => (
-            <p key={c.add}>
-              <b>+ {c.add}</b>
-              <br />
-              <small>{c.axes.join(", ")}</small>
-            </p>
-          ))}
-          {!report.recommendations.changes.length && (
-            <p>No additions justified by current evidence.</p>
-          )}
-          <p>
-            Suggested changes: <strong>{report.blast.changes_needed}</strong>
-          </p>
-          <small>{report.blast.note}</small>
-        </section>
-      </div>
-      <div className="notice">
-        <strong>
-          OVERREACTION RISK: {report.matchup.overreaction.risk.toUpperCase()}
-        </strong>
-        {report.matchup.overreaction.advice.map((s) => (
-          <p key={s}>{s}</p>
-        ))}
-        <p>{report.matchup.note}</p>
-      </div>
-    </>
-  );
-}
 
 function App() {
   const [opponent, setOpponent] = useState<Deck>(blank);
@@ -832,7 +731,11 @@ function App() {
   return (
     <>
       <header>
-        <a className="brand" href={import.meta.env.BASE_URL} aria-label="Deck Threat Matrix home">
+        <a
+          className="brand"
+          href={import.meta.env.BASE_URL}
+          aria-label="Deck Threat Matrix home"
+        >
           <span className="brand-icon">▦</span>
           <span>
             DECK THREAT
@@ -1094,8 +997,8 @@ function App() {
               role="tabpanel"
               aria-labelledby={"tab-" + tabs.indexOf(tab)}
             >
-              {tab === "Blast It Out" ? (
-                <Blast report={report} />
+              {tab === "Matchup Overview" ? (
+                <MatchupOverview report={report} />
               ) : tab === "Threat Matrix" ? (
                 <Matrix report={report} />
               ) : tab === "Engines" ? (

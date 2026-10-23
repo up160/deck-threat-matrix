@@ -5,6 +5,7 @@ import { compare, profiles } from "../analysis/matchup";
 import { recommend } from "../analysis/recommendations";
 import { blast, bracketAdvisory, markdown } from "../analysis/report";
 import type { DeckAnalysis, DeckInput, Report } from "../analysis/model";
+import { overview } from "../analysis/overview";
 const store = new BrowserStore(),
   client = new ScryfallClient(store);
 let busy = false;
@@ -32,7 +33,7 @@ async function build(
     bracket_advisory: bracketAdvisory(mine),
     generated: new Date().toISOString(),
   };
-  const report = { ...result, blast: blast(result) };
+  const report = { ...result, blast: blast(result), summary: overview(result) };
   return { ...report, markdown: markdown(report) };
 }
 globalThis.onmessage = async (
