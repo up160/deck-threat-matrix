@@ -98,7 +98,27 @@ export type Change = {
   prices: Record<string, string | null>;
   bracket_note: string;
 };
+export type Overview = {
+  verdict: string;
+  explanation: string;
+  confidence: string;
+  power: { title: string; explanation: string; evidence: string[] };
+  environment: { title: string; explanation: string; evidence: string[] };
+  threats: {
+    axis: string;
+    why: string;
+    cards: string[];
+    status: string;
+    threat: number;
+    coverage: number;
+    answers: string[];
+    answer_cards: string[];
+    pointer: string;
+  }[];
+  changes: string;
+};
 export type Report = {
+  summary: Overview;
   opponent: Analysis;
   mine: Analysis;
   environment: string;

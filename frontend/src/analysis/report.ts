@@ -37,7 +37,7 @@ export function bracketAdvisory(
   };
 }
 export function blast(
-  report: Omit<Report, "blast" | "markdown">,
+  report: Omit<Report, "blast" | "markdown" | "summary">,
 ): Report["blast"] {
   const scores = report.opponent.scores,
     top = Object.keys(scores).sort((a, b) => scores[b].score - scores[a].score);
@@ -69,6 +69,30 @@ export function markdown(report: Omit<Report, "markdown">): string {
     `Overreaction risk: ${matchup.overreaction.risk}`,
     "",
   ];
+  const summary = report.summary;
+  lines.push(
+    "## Matchup overview",
+    summary.verdict,
+    summary.explanation,
+    summary.confidence,
+    "### Is their deck overpowered compared with mine?",
+    summary.power.title,
+    summary.power.explanation,
+    ...summary.power.evidence.map((s) => "- " + md(s)),
+    "### Is their deck too powerful for the environment?",
+    summary.environment.title,
+    summary.environment.explanation,
+    ...summary.environment.evidence.map((s) => "- " + md(s)),
+  );
+  for (const threat of summary.threats)
+    lines.push(
+      `### ${threat.axis}: ${threat.status}`,
+      threat.why,
+      "Opponent cards: " + threat.cards.map(md).join(", "),
+      ...threat.answers.map((s) => "- Your answer: " + md(s)),
+      threat.pointer,
+    );
+  lines.push("### Changes actually needed", summary.changes);
   for (const [label, deck] of [
     ["Opponent", opponent],
     ["My deck", mine],

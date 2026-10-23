@@ -104,3 +104,8 @@ Import that JSON into the browser app. It contains private deck metadata; do not
 Automated tests and desktop browser walkthroughs cover storage, worker analysis, backups and mobile-sized layouts. **Actual iPhone/iPad Safari verification requires those devices** and must not be inferred from desktop emulation. Check upload/download behaviour and persistence on your own devices before relying on the local library alone. Keep a backup in Files.
 
 Next iteration: calibrate answer applicability and role rules against your actual decks and recorded matchups. Automatic sync would add accounts/hosted storage and is intentionally excluded.
+
+### Reading the first page
+The default **Matchup Overview** explains the coverage verdict, three main threats, your applicable answers and practical play pointers. It separately asks whether the opponent shows broader strength than your deck and whether their list raises concerns for your personal B2/B3 target. Neither check predicts a winner or certifies official brackets. Open each check's evidence, or use the detailed tabs for all card contributions and scoring. Incomplete lists remain provisional. A limited recommendation catalogue may leave real gaps without a safe suggested addition.
+
+The exact overview thresholds and compared capability dimensions are documented in [the spec](docs/SPEC.md#matchup-overview-issue-5). Stank and permanent density are excluded from the relative power check; the existing readiness formula is unchanged.
