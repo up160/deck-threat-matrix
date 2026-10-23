@@ -7,3 +7,6 @@ __pycache__/
 .mypy_cache/
 .ruff_cache/
 *.pyc
+# Private browser library exports must never be committed.
+*library*.json
+!frontend/src/services/*.json
